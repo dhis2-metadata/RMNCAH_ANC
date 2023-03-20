@@ -26228,7 +26228,7 @@
     "options": [
         {
             "attributeValues": [],
-            "code": "+",
+            "code": "PLUS",
             "id": "fIcpWUDItFy",
             "name": "+",
             "optionSet": {
@@ -26239,7 +26239,7 @@
         },
         {
             "attributeValues": [],
-            "code": "+",
+            "code": "PLUS",
             "id": "FJVGHQYho0r",
             "name": "+",
             "optionSet": {
@@ -26250,7 +26250,7 @@
         },
         {
             "attributeValues": [],
-            "code": "+",
+            "code": "PLUS",
             "id": "jrh0YJHyBR5",
             "name": "+",
             "optionSet": {
@@ -26261,7 +26261,7 @@
         },
         {
             "attributeValues": [],
-            "code": "+",
+            "code": "PLUS",
             "id": "qR6x73sTb09",
             "name": "+",
             "optionSet": {
@@ -26272,7 +26272,7 @@
         },
         {
             "attributeValues": [],
-            "code": "+",
+            "code": "PLUS",
             "id": "VY5Ozp6yYH3",
             "name": "+",
             "optionSet": {
@@ -26283,7 +26283,7 @@
         },
         {
             "attributeValues": [],
-            "code": "++",
+            "code": "2PLUS",
             "id": "ailAzV6vtyn",
             "name": "++",
             "optionSet": {
@@ -26294,7 +26294,7 @@
         },
         {
             "attributeValues": [],
-            "code": "++",
+            "code": "2PLUS",
             "id": "AUAJh2AldwD",
             "name": "++",
             "optionSet": {
@@ -26305,7 +26305,7 @@
         },
         {
             "attributeValues": [],
-            "code": "++",
+            "code": "2PLUS",
             "id": "nDdBsqTYXv8",
             "name": "++",
             "optionSet": {
@@ -26316,7 +26316,7 @@
         },
         {
             "attributeValues": [],
-            "code": "++",
+            "code": "2PLUS",
             "id": "U6LLd19AFBr",
             "name": "++",
             "optionSet": {
@@ -26327,7 +26327,7 @@
         },
         {
             "attributeValues": [],
-            "code": "++",
+            "code": "2PLUS",
             "id": "w4w9bisgztw",
             "name": "++",
             "optionSet": {
@@ -26338,7 +26338,7 @@
         },
         {
             "attributeValues": [],
-            "code": "+++",
+            "code": "4PLUS",
             "id": "gvdMNq26Ekp",
             "name": "+++",
             "optionSet": {
@@ -26349,7 +26349,7 @@
         },
         {
             "attributeValues": [],
-            "code": "+++",
+            "code": "4PLUS",
             "id": "lYHMoOA4rZU",
             "name": "+++",
             "optionSet": {
@@ -26360,7 +26360,7 @@
         },
         {
             "attributeValues": [],
-            "code": "+++",
+            "code": "4PLUS",
             "id": "ryXqLE7XyV9",
             "name": "+++",
             "optionSet": {
@@ -26371,7 +26371,7 @@
         },
         {
             "attributeValues": [],
-            "code": "+++",
+            "code": "4PLUS",
             "id": "WUTWWyWSfZi",
             "name": "+++",
             "optionSet": {
@@ -26382,7 +26382,7 @@
         },
         {
             "attributeValues": [],
-            "code": "+++",
+            "code": "4PLUS",
             "id": "xwGeRIecJjH",
             "name": "+++",
             "optionSet": {
@@ -26393,7 +26393,7 @@
         },
         {
             "attributeValues": [],
-            "code": "++++",
+            "code": "4PLUSPLUS",
             "id": "edmnI1pLkBQ",
             "name": "++++",
             "optionSet": {
@@ -26404,7 +26404,7 @@
         },
         {
             "attributeValues": [],
-            "code": "++++",
+            "code": "4PLUSPLUS",
             "id": "HRe42yntq9t",
             "name": "++++",
             "optionSet": {
@@ -26415,7 +26415,7 @@
         },
         {
             "attributeValues": [],
-            "code": "++++",
+            "code": "4PLUSPLUS",
             "id": "l7j8vWCUGBK",
             "name": "++++",
             "optionSet": {
@@ -26426,7 +26426,7 @@
         },
         {
             "attributeValues": [],
-            "code": "++++",
+            "code": "4PLUSPLUS",
             "id": "Wa7kilJ3spp",
             "name": "++++",
             "optionSet": {
@@ -26437,7 +26437,7 @@
         },
         {
             "attributeValues": [],
-            "code": "++++",
+            "code": "4PLUSPLUS",
             "id": "YLK0rMtcxPz",
             "name": "++++",
             "optionSet": {
@@ -26448,7 +26448,7 @@
         },
         {
             "attributeValues": [],
-            "code": "11.5–16 kg",
+            "code": "11POINT5-16_KG",
             "id": "kyfQR3rLp9j",
             "name": "11.5–16 kg",
             "optionSet": {
@@ -26459,7 +26459,7 @@
         },
         {
             "attributeValues": [],
-            "code": "12.5–18 kg",
+            "code": "12POINT5-18_KG",
             "id": "I4vV1Fg0amM",
             "name": "12.5–18 kg",
             "optionSet": {
@@ -26470,7 +26470,7 @@
         },
         {
             "attributeValues": [],
-            "code": "5–9 kg",
+            "code": "5-9_KG",
             "id": "BqmCSImLALi",
             "name": "5–9 kg",
             "optionSet": {
@@ -26481,7 +26481,7 @@
         },
         {
             "attributeValues": [],
-            "code": "7–11.5 kg",
+            "code": "7-11POINT5_KG",
             "id": "r7XH8DUPoeT",
             "name": "7–11.5 kg",
             "optionSet": {
@@ -26492,7 +26492,7 @@
         },
         {
             "attributeValues": [],
-            "code": "75g OGTT � fasting",
+            "code": "75G_OGTT__FASTING",
             "id": "RfrVW5uSnh3",
             "name": "75g OGTT � fasting glucose",
             "optionSet": {
@@ -26503,7 +26503,7 @@
         },
         {
             "attributeValues": [],
-            "code": "75 g (OGTT) � 1 hour",
+            "code": "75_G-OGTT-_1_HOUR",
             "id": "O6snznC9LNB",
             "name": "75 g oral glucose tolerance test (OGTT) � 1 hour",
             "optionSet": {
@@ -26514,7 +26514,7 @@
         },
         {
             "attributeValues": [],
-            "code": "75 g (OGTT) � 2 hours",
+            "code": "75_G-OGTT-_2_HOURS",
             "id": "Fepm9TxCFEL",
             "name": "75 g oral glucose tolerance test (OGTT) � 2 hours",
             "optionSet": {
@@ -26547,7 +26547,7 @@
         },
         {
             "attributeValues": [],
-            "code": "Not done",
+            "code": "NOT_DONE",
             "id": "slPC37meUdO",
             "name": "Abdominal exam result not done",
             "optionSet": {
@@ -26558,7 +26558,7 @@
         },
         {
             "attributeValues": [],
-            "code": "Abnormal vaginal discharge",
+            "code": "ABNORMAL_VAGINAL_DISCHARGE",
             "id": "MoL6AoM994t",
             "name": "Abnormal vaginal discharge (physiological)",
             "optionSet": {
@@ -26580,7 +26580,7 @@
         },
         {
             "attributeValues": [],
-            "code": "Abortion-related complications",
+            "code": "ABORTION-RELATED_COMPLICATIONS",
             "id": "DEgKDO95GHW",
             "name": "Abortion-related complications",
             "optionSet": {
@@ -26591,7 +26591,7 @@
         },
         {
             "attributeValues": [],
-            "code": "Allergy to medication",
+            "code": "ALLERGY_TO_MEDICATION",
             "id": "jORlccPRoPK",
             "name": "Allergy",
             "optionSet": {
@@ -26602,7 +26602,7 @@
         },
         {
             "attributeValues": [],
-            "code": "Allergy to vaccine",
+            "code": "ALLERGY_TO_VACCINE",
             "id": "weJp498o6UV",
             "name": "Allergy to vaccine",
             "optionSet": {
@@ -26613,7 +26613,7 @@
         },
         {
             "attributeValues": [],
-            "code": "Antepartum haemorrhage",
+            "code": "ANTEPARTUM_HAEMORRHAGE",
             "id": "nVyQJ20E7Bo",
             "name": "Antepartum haemorrhage",
             "optionSet": {
@@ -26624,7 +26624,7 @@
         },
         {
             "attributeValues": [],
-            "code": "Anterior",
+            "code": "ANTERIOR",
             "id": "dfc8f30YXhM",
             "name": "Anterior",
             "optionSet": {
@@ -26635,7 +26635,7 @@
         },
         {
             "attributeValues": [],
-            "code": "Anti-HCV lab-based",
+            "code": "ANTI-HCV_LAB-BASED",
             "id": "tS61jkcdegu",
             "name": "Anti-HCV lab-based immunoassay (recommended)",
             "optionSet": {
@@ -26646,7 +26646,7 @@
         },
         {
             "attributeValues": [],
-            "code": "Anti-HCV (RDT)",
+            "code": "ANTI-HCV-RDT",
             "id": "l9XLmtOYVYR",
             "name": "Anti-HCV rapid diagnostic test (RDT)",
             "optionSet": {
@@ -26657,7 +26657,7 @@
         },
         {
             "attributeValues": [],
-            "code": "Arrhythmia",
+            "code": "ARRHYTHMIA",
             "id": "NtsniWbu6jD",
             "name": "Arrhythmia",
             "optionSet": {
@@ -26679,7 +26679,7 @@
         },
         {
             "attributeValues": [],
-            "code": "Bleeding",
+            "code": "BLEEDING",
             "id": "esgXgDjb71n",
             "name": "Bleeding",
             "optionSet": {
@@ -26690,7 +26690,7 @@
         },
         {
             "attributeValues": [],
-            "code": "BrokenBPcuff",
+            "code": "BROKENBPCUFF",
             "id": "CblS07wm5YI",
             "name": "BP cuff (sphygmomanometer) is broken",
             "optionSet": {
@@ -26701,7 +26701,7 @@
         },
         {
             "attributeValues": [],
-            "code": "NoBPcuff",
+            "code": "NOBPCUFF",
             "id": "arIG8fzADPI",
             "name": "BP cuff (sphygmomanometer) not available",
             "optionSet": {
@@ -26712,7 +26712,7 @@
         },
         {
             "attributeValues": [],
-            "code": "Bradycardia",
+            "code": "BRADYCARDIA",
             "id": "LKphaXTkRyK",
             "name": "Bradycardia",
             "optionSet": {
@@ -26723,7 +26723,7 @@
         },
         {
             "attributeValues": [],
-            "code": "Not done",
+            "code": "NOT_DONE",
             "id": "g3vhB4EwVkh",
             "name": "Breast exam not done",
             "optionSet": {
@@ -26734,7 +26734,7 @@
         },
         {
             "attributeValues": [],
-            "code": "Not done",
+            "code": "NOT_DONE",
             "id": "XzGVCOSu0PX",
             "name": "Cardiac exam not done",
             "optionSet": {
@@ -26745,7 +26745,7 @@
         },
         {
             "attributeValues": [],
-            "code": "Cephalic",
+            "code": "CEPHALIC",
             "id": "LIJQrz8ushc",
             "name": "Cephalic fetal presentation",
             "optionSet": {
@@ -26756,7 +26756,7 @@
         },
         {
             "attributeValues": [],
-            "code": "Cervical friability",
+            "code": "CERVICAL_FRIABILITY",
             "id": "XeumFhTMrTK",
             "name": "Cervical friability",
             "optionSet": {
@@ -26767,7 +26767,7 @@
         },
         {
             "attributeValues": [],
-            "code": "Client is ill",
+            "code": "CLIENT_IS_ILL",
             "id": "C5jB1ytReAQ",
             "name": "Client is ill",
             "optionSet": {
@@ -26778,7 +26778,7 @@
         },
         {
             "attributeValues": [],
-            "code": "Client refused",
+            "code": "CLIENT_REFUSED",
             "id": "Pmnbqw1sZ8w",
             "name": "Client refused",
             "optionSet": {
@@ -26789,7 +26789,7 @@
         },
         {
             "attributeValues": [],
-            "code": "Reffered",
+            "code": "REFFERED",
             "id": "nS1FX3J1qCk",
             "name": "Client was referred",
             "optionSet": {
@@ -26800,7 +26800,7 @@
         },
         {
             "attributeValues": [],
-            "code": "Referred instead",
+            "code": "REFERRED_INSTEAD",
             "id": "YSoCXqlIFRd",
             "name": "Client was referred",
             "optionSet": {
@@ -26811,7 +26811,7 @@
         },
         {
             "attributeValues": [],
-            "code": "Referred instead",
+            "code": "REFERRED_INSTEAD",
             "id": "ySUE8eJ03e8",
             "name": "Client was referred",
             "optionSet": {
@@ -26822,7 +26822,7 @@
         },
         {
             "attributeValues": [],
-            "code": "Clusters of erythematous papules",
+            "code": "CLUSTERS_OF_ERYTHEMATOUS_PAPULES",
             "id": "Czn7cTAYS4K",
             "name": "Clusters of erythematous papules",
             "optionSet": {
@@ -26833,7 +26833,7 @@
         },
         {
             "attributeValues": [],
-            "code": "Cold sweats",
+            "code": "COLD_SWEATS",
             "id": "vbuGv7oJHON",
             "name": "Cold sweats",
             "optionSet": {
@@ -26844,7 +26844,7 @@
         },
         {
             "attributeValues": [],
-            "code": "Combined contraceptive patch",
+            "code": "COMBINED_CONTRACEPTIVE_PATCH",
             "id": "XUa6IAnPK5j",
             "name": "Combined contraceptive patch",
             "optionSet": {
@@ -26855,7 +26855,7 @@
         },
         {
             "attributeValues": [],
-            "code": "Combined contraceptive vaginal ring (CVR)",
+            "code": "COMBINED_CONTRACEPTIVE_VAGINAL_RING-CVR",
             "id": "Aln1lx3HQvb",
             "name": "Combined contraceptive vaginal ring (CVR)",
             "optionSet": {
@@ -26866,7 +26866,7 @@
         },
         {
             "attributeValues": [],
-            "code": "Combined oral contraceptives (COCs)",
+            "code": "COMBINED_ORAL_CONTRACEPTIVES-COCS",
             "id": "oPG7DsJ8nxu",
             "name": "Combined oral contraceptives (COCs)",
             "optionSet": {
@@ -26888,7 +26888,7 @@
         },
         {
             "attributeValues": [],
-            "code": "Confidentiality not be assured",
+            "code": "CONFIDENTIALITY_NOT_BE_ASSURED",
             "id": "gXkqlwiN9ms",
             "name": "Confidentiality could not be assured",
             "optionSet": {
@@ -26899,7 +26899,7 @@
         },
         {
             "attributeValues": [],
-            "code": "Copper-bearing intrauterine device (Cu-IUD)",
+            "code": "COPPER-BEARING_INTRAUTERINE_DEVICE-CU-IUD",
             "id": "Gxe8sVxbGlj",
             "name": "Copper-bearing intrauterine device (Cu-IUD)",
             "optionSet": {
@@ -26910,7 +26910,7 @@
         },
         {
             "attributeValues": [],
-            "code": "Cough",
+            "code": "COUGH",
             "id": "mQCkWgo4Tij",
             "name": "Cough",
             "optionSet": {
@@ -26921,7 +26921,7 @@
         },
         {
             "attributeValues": [],
-            "code": "Done",
+            "code": "DONE",
             "id": "ZJ9NWWd3Tm7",
             "name": "Counselling was done",
             "optionSet": {
@@ -26932,7 +26932,7 @@
         },
         {
             "attributeValues": [],
-            "code": "C-section",
+            "code": "C-SECTION",
             "id": "eRBoUHFi0nk",
             "name": "C-section",
             "optionSet": {
@@ -26943,7 +26943,7 @@
         },
         {
             "attributeValues": [],
-            "code": "Daily",
+            "code": "DAILY",
             "id": "T2ncov1d2zU",
             "name": "Daily",
             "optionSet": {
@@ -26965,7 +26965,7 @@
         },
         {
             "attributeValues": [],
-            "code": "Discharge",
+            "code": "DISCHARGE",
             "id": "k1kVi1hmsqP",
             "name": "Discharge",
             "optionSet": {
@@ -26998,7 +26998,7 @@
         },
         {
             "attributeValues": [],
-            "code": "Does not know",
+            "code": "DOES_NOT_KNOW",
             "id": "FyzBIt51dsy",
             "name": "Does not know level of education",
             "optionSet": {
@@ -27009,7 +27009,7 @@
         },
         {
             "attributeValues": [],
-            "code": "Inconclusive",
+            "code": "INCONCLUSIVE",
             "id": "Uhe6Mfz9Eya",
             "name": "Doesn't know",
             "optionSet": {
@@ -27020,7 +27020,7 @@
         },
         {
             "attributeValues": [],
-            "code": "Does not know",
+            "code": "DOES_NOT_KNOW",
             "id": "czS6Xl2MDOR",
             "name": "Don't know if last live birth was preterm",
             "optionSet": {
@@ -27031,7 +27031,7 @@
         },
         {
             "attributeValues": [],
-            "code": "Anti-HCV  (DBS)",
+            "code": "ANTI-HCV-DBS",
             "id": "vkbQIpY3v87",
             "name": "Dried blood spot (DBS) anti-HCV test",
             "optionSet": {
@@ -27042,7 +27042,7 @@
         },
         {
             "attributeValues": [],
-            "code": "HBsAg(DBS)",
+            "code": "HBSAG-DBS",
             "id": "XHdmMselymu",
             "name": "Dried blood spot (DBS) HBsAg test",
             "optionSet": {
@@ -27053,7 +27053,7 @@
         },
         {
             "attributeValues": [],
-            "code": "Dyspnoea",
+            "code": "DYSPNOEA",
             "id": "ZUjfWzaN3iM",
             "name": "Dyspnoea",
             "optionSet": {
@@ -27064,7 +27064,7 @@
         },
         {
             "attributeValues": [],
-            "code": "Eclampsia",
+            "code": "ECLAMPSIA",
             "id": "z2atNJiXnGU",
             "name": "Eclampsia",
             "optionSet": {
@@ -27075,7 +27075,7 @@
         },
         {
             "attributeValues": [],
-            "code": "Etonogestrel (ETG) one-rod implant",
+            "code": "ETONOGESTREL-ETG-ONE-ROD_IMPLANT",
             "id": "rn9Dys2dnKj",
             "name": "Etonogestrel (ETG) one-rod implant",
             "optionSet": {
@@ -27086,7 +27086,7 @@
         },
         {
             "attributeValues": [],
-            "code": "Evidence of amniotic fluid",
+            "code": "EVIDENCE_OF_AMNIOTIC_FLUID",
             "id": "vhDYh03aKsC",
             "name": "Evidence of amniotic fluid",
             "optionSet": {
@@ -27097,7 +27097,7 @@
         },
         {
             "attributeValues": [],
-            "code": "Expired tests",
+            "code": "EXPIRED_TESTS",
             "id": "t6E4h7WOrx6",
             "name": "Expired tests",
             "optionSet": {
@@ -27108,7 +27108,7 @@
         },
         {
             "attributeValues": [],
-            "code": "Facility",
+            "code": "FACILITY",
             "id": "jJwB6kSwzfa",
             "name": "Facility",
             "optionSet": {
@@ -27119,7 +27119,7 @@
         },
         {
             "attributeValues": [],
-            "code": "Facility (elective CS)",
+            "code": "FACILITY-ELECTIVE_CS",
             "id": "ZvwNcCy1Fkz",
             "name": "Facility (elective caesarian section)",
             "optionSet": {
@@ -27141,7 +27141,7 @@
         },
         {
             "attributeValues": [],
-            "code": "Fasting",
+            "code": "FASTING",
             "id": "GSmkBXmA1TB",
             "name": "Fasting plasma glucose",
             "optionSet": {
@@ -27152,7 +27152,7 @@
         },
         {
             "attributeValues": [],
-            "code": "Female condoms",
+            "code": "FEMALE_CONDOMS",
             "id": "AVxItWcOnlf",
             "name": "Female condoms",
             "optionSet": {
@@ -27163,7 +27163,7 @@
         },
         {
             "attributeValues": [],
-            "code": "Female sterilization",
+            "code": "FEMALE_STERILIZATION",
             "id": "zpA9Ifvv2Ma",
             "name": "Female sterilization",
             "optionSet": {
@@ -27174,7 +27174,7 @@
         },
         {
             "attributeValues": [],
-            "code": "First contact",
+            "code": "FIRST_CONTACT",
             "id": "AB86r8GULT3",
             "name": "First antenatal care contact",
             "optionSet": {
@@ -27185,7 +27185,7 @@
         },
         {
             "attributeValues": [],
-            "code": "Flushing",
+            "code": "FLUSHING",
             "id": "wQVce8gERS1",
             "name": "Flushing",
             "optionSet": {
@@ -27196,7 +27196,7 @@
         },
         {
             "attributeValues": [],
-            "code": "Forceps",
+            "code": "FORCEPS",
             "id": "vzQmuUTAayy",
             "name": "Forceps",
             "optionSet": {
@@ -27207,7 +27207,7 @@
         },
         {
             "attributeValues": [],
-            "code": "Fully immunized",
+            "code": "FULLY_IMMUNIZED",
             "id": "tFe9vXCMJqf",
             "name": "Fully immunized",
             "optionSet": {
@@ -27218,7 +27218,7 @@
         },
         {
             "attributeValues": [],
-            "code": "Fully immunized",
+            "code": "FULLY_IMMUNIZED",
             "id": "uD8EGgoFGUk",
             "name": "Fully immunized",
             "optionSet": {
@@ -27229,7 +27229,7 @@
         },
         {
             "attributeValues": [],
-            "code": "Fundal",
+            "code": "FUNDAL",
             "id": "VlPykPkYtFT",
             "name": "Fundal",
             "optionSet": {
@@ -27240,7 +27240,7 @@
         },
         {
             "attributeValues": [],
-            "code": "Genital pain",
+            "code": "GENITAL_PAIN",
             "id": "cQIbi025IrP",
             "name": "Genital pain",
             "optionSet": {
@@ -27251,7 +27251,7 @@
         },
         {
             "attributeValues": [],
-            "code": "Genital ulcer",
+            "code": "GENITAL_ULCER",
             "id": "skvYFYtaRDV",
             "name": "Genital ulcer",
             "optionSet": {
@@ -27262,7 +27262,7 @@
         },
         {
             "attributeValues": [],
-            "code": "HBsAg lab",
+            "code": "HBSAG_LAB",
             "id": "F93qYJX2CMC",
             "name": "HBsAg laboratory-based immunoassay (recommended)",
             "optionSet": {
@@ -27273,7 +27273,7 @@
         },
         {
             "attributeValues": [],
-            "code": "HBsAg(RDT)",
+            "code": "HBSAG-RDT",
             "id": "CoKKPJLkfcH",
             "name": "HBsAg rapid diagnostic test (RDT)",
             "optionSet": {
@@ -27284,7 +27284,7 @@
         },
         {
             "attributeValues": [],
-            "code": "Hb (haemoglobin colour scale)",
+            "code": "HB-HAEMOGLOBIN_COLOUR_SCALE",
             "id": "Uf4TtefCSqs",
             "name": "Hb test (haemoglobin colour scale)",
             "optionSet": {
@@ -27295,7 +27295,7 @@
         },
         {
             "attributeValues": [],
-            "code": "Hb (haemoglobinometer)",
+            "code": "HB-HAEMOGLOBINOMETER",
             "id": "TCBCV1OkzKU",
             "name": "Hb test (haemoglobinometer)",
             "optionSet": {
@@ -27306,7 +27306,7 @@
         },
         {
             "attributeValues": [],
-            "code": "Health-care facility",
+            "code": "HEALTH-CARE_FACILITY",
             "id": "yIbZikRFZcG",
             "name": "Health-care facility",
             "optionSet": {
@@ -27317,7 +27317,7 @@
         },
         {
             "attributeValues": [],
-            "code": "Heart murmur",
+            "code": "HEART_MURMUR",
             "id": "A2jZ0yZoH82",
             "name": "Heart murmur",
             "optionSet": {
@@ -27328,7 +27328,7 @@
         },
         {
             "attributeValues": [],
-            "code": "Higher education",
+            "code": "HIGHER_EDUCATION",
             "id": "xPq6ZanumpL",
             "name": "Higher education",
             "optionSet": {
@@ -27361,7 +27361,7 @@
         },
         {
             "attributeValues": [],
-            "code": "HIV negative",
+            "code": "HIV_NEGATIVE",
             "id": "TPvySZfDbzg",
             "name": "HIV negative",
             "optionSet": {
@@ -27372,7 +27372,7 @@
         },
         {
             "attributeValues": [],
-            "code": "HIV+",
+            "code": "HIVPOS",
             "id": "EBro4row8Ec",
             "name": "HIV positive",
             "optionSet": {
@@ -27383,7 +27383,7 @@
         },
         {
             "attributeValues": [],
-            "code": "HIV positive",
+            "code": "HIV_POSITIVE",
             "id": "o0CzzbjoOVh",
             "name": "HIV positive",
             "optionSet": {
@@ -27394,7 +27394,7 @@
         },
         {
             "attributeValues": [],
-            "code": "HIV+",
+            "code": "HIVPOS",
             "id": "OBV76VpVCJ3",
             "name": "HIV positive",
             "optionSet": {
@@ -27405,7 +27405,7 @@
         },
         {
             "attributeValues": [],
-            "code": "Home",
+            "code": "HOME",
             "id": "oq7x6VjiRb1",
             "name": "Home",
             "optionSet": {
@@ -27416,7 +27416,7 @@
         },
         {
             "attributeValues": [],
-            "code": "Home",
+            "code": "HOME",
             "id": "pwkilYcDR8s",
             "name": "Home",
             "optionSet": {
@@ -27438,7 +27438,7 @@
         },
         {
             "attributeValues": [],
-            "code": "Inconclusive",
+            "code": "INCONCLUSIVE",
             "id": "iQ8LVlRl0rS",
             "name": "Inconclusive",
             "optionSet": {
@@ -27470,7 +27470,7 @@
         },
         {
             "attributeValues": [],
-            "code": "Increased",
+            "code": "INCREASED",
             "id": "Zw150icDFgk",
             "name": "Increased amniotic fluid level",
             "optionSet": {
@@ -27481,7 +27481,7 @@
         },
         {
             "attributeValues": [],
-            "code": "Increased temperature",
+            "code": "INCREASED_TEMPERATURE",
             "id": "wcfSx7zKoZZ",
             "name": "Increased temperature",
             "optionSet": {
@@ -27492,7 +27492,7 @@
         },
         {
             "attributeValues": [],
-            "code": "Infection",
+            "code": "INFECTION",
             "id": "aDJMEbzFnXG",
             "name": "Infection",
             "optionSet": {
@@ -27503,7 +27503,7 @@
         },
         {
             "attributeValues": [],
-            "code": "Lactational amenorrhea method (LAM)",
+            "code": "LACTATIONAL_AMENORRHEA_METHOD-LAM",
             "id": "phMehSUwXzd",
             "name": "Lactational amenorrhea method (LAM)",
             "optionSet": {
@@ -27514,7 +27514,7 @@
         },
         {
             "attributeValues": [],
-            "code": "No",
+            "code": "NO",
             "id": "qwPiCQnOehb",
             "name": "Last live birth was not preterm",
             "optionSet": {
@@ -27525,7 +27525,7 @@
         },
         {
             "attributeValues": [],
-            "code": "Yes",
+            "code": "YES",
             "id": "KYHYhvxnily",
             "name": "Last live birth was preterm",
             "optionSet": {
@@ -27547,7 +27547,7 @@
         },
         {
             "attributeValues": [],
-            "code": "Left side",
+            "code": "LEFT_SIDE",
             "id": "J90AQO3I59o",
             "name": "Left side",
             "optionSet": {
@@ -27558,7 +27558,7 @@
         },
         {
             "attributeValues": [],
-            "code": "Levonorgestrel intrauterine device (LNG-IUD)",
+            "code": "LEVONORGESTREL_INTRAUTERINE_DEVICE-LNG-IUD",
             "id": "qppv9ayeMuz",
             "name": "Levonorgestrel intrauterine device (LNG-IUD)",
             "optionSet": {
@@ -27569,7 +27569,7 @@
         },
         {
             "attributeValues": [],
-            "code": "Levonorgestrel (LNG) two-rod implant",
+            "code": "LEVONORGESTREL-LNG-TWO-ROD_IMPLANT",
             "id": "w9es8ZgKaJD",
             "name": "Levonorgestrel (LNG) two-rod implant",
             "optionSet": {
@@ -27591,7 +27591,7 @@
         },
         {
             "attributeValues": [],
-            "code": "Local pain",
+            "code": "LOCAL_PAIN",
             "id": "YTCzSYHecjB",
             "name": "Local pain",
             "optionSet": {
@@ -27613,7 +27613,7 @@
         },
         {
             "attributeValues": [],
-            "code": "Low",
+            "code": "LOW",
             "id": "DgOpV2GNl9l",
             "name": "Low",
             "optionSet": {
@@ -27624,7 +27624,7 @@
         },
         {
             "attributeValues": [],
-            "code": "Lymphadenopathy (pelvic – unilateral or bilateral)",
+            "code": "LYMPHADENOPATHY-PELVIC-UNILATERAL_OR_BILATERAL",
             "id": "sF5zFZswRJo",
             "name": "Lymphadenopathy (pelvic – unilateral or bilateral)",
             "optionSet": {
@@ -27635,7 +27635,7 @@
         },
         {
             "attributeValues": [],
-            "code": "Machine not functioning",
+            "code": "MACHINE_NOT_FUNCTIONING",
             "id": "HskrsKwcwXt",
             "name": "Machine not functioning",
             "optionSet": {
@@ -27646,7 +27646,7 @@
         },
         {
             "attributeValues": [],
-            "code": "Male condoms",
+            "code": "MALE_CONDOMS",
             "id": "PtJMWIZZGla",
             "name": "Male condoms",
             "optionSet": {
@@ -27657,7 +27657,7 @@
         },
         {
             "attributeValues": [],
-            "code": "Male sterilization",
+            "code": "MALE_STERILIZATION",
             "id": "nVZCbdFeHar",
             "name": "Male sterilization",
             "optionSet": {
@@ -27668,7 +27668,7 @@
         },
         {
             "attributeValues": [],
-            "code": "Mass/tumour",
+            "code": "MASS_OR_TUMOUR",
             "id": "xEdfrBJsNm9",
             "name": "Mass/tumour",
             "optionSet": {
@@ -27701,7 +27701,7 @@
         },
         {
             "attributeValues": [],
-            "code": "Mucopurulent cervicitis",
+            "code": "MUCOPURULENT_CERVICITIS",
             "id": "uwaAFiz444I",
             "name": "Mucopurulent cervicitis",
             "optionSet": {
@@ -27712,7 +27712,7 @@
         },
         {
             "attributeValues": [],
-            "code": "Negative",
+            "code": "NEGATIVE",
             "id": "K2uAuIFc3Ym",
             "name": "Negative",
             "optionSet": {
@@ -27769,7 +27769,7 @@
         },
         {
             "attributeValues": [],
-            "code": "Negative",
+            "code": "NEGATIVE",
             "id": "saKh3FDMWGs",
             "name": "Negative",
             "optionSet": {
@@ -27816,7 +27816,7 @@
         },
         {
             "attributeValues": [],
-            "code": "NET-EN norethisterone enanthate",
+            "code": "NET-EN_NORETHISTERONE_ENANTHATE",
             "id": "eK7OWhyyHt9",
             "name": "NET-EN norethisterone enanthate",
             "optionSet": {
@@ -27884,7 +27884,7 @@
         },
         {
             "attributeValues": [],
-            "code": "Client refused",
+            "code": "CLIENT_REFUSED",
             "id": "mI1ObXTubrn",
             "name": "No: Client refused",
             "optionSet": {
@@ -27895,7 +27895,7 @@
         },
         {
             "attributeValues": [],
-            "code": "Referred",
+            "code": "REFERRED",
             "id": "MxJd894Xqm0",
             "name": "No: Client was referred",
             "optionSet": {
@@ -27906,7 +27906,7 @@
         },
         {
             "attributeValues": [],
-            "code": "No doses",
+            "code": "NO_DOSES",
             "id": "pTD7t5QSuKX",
             "name": "No doses",
             "optionSet": {
@@ -27917,7 +27917,7 @@
         },
         {
             "attributeValues": [],
-            "code": "No doses",
+            "code": "NO_DOSES",
             "id": "re5I8JgqAqN",
             "name": "No doses",
             "optionSet": {
@@ -27928,7 +27928,7 @@
         },
         {
             "attributeValues": [],
-            "code": "Nodule",
+            "code": "NODULE",
             "id": "tAMkALQvX6x",
             "name": "Nodule",
             "optionSet": {
@@ -27939,7 +27939,7 @@
         },
         {
             "attributeValues": [],
-            "code": "No education",
+            "code": "NO_EDUCATION",
             "id": "LgiOrWTbnj7",
             "name": "No education",
             "optionSet": {
@@ -27950,7 +27950,7 @@
         },
         {
             "attributeValues": [],
-            "code": "No fetal movement",
+            "code": "NO_FETAL_MOVEMENT",
             "id": "KFMxbIvzmAY",
             "name": "No fetal movement",
             "optionSet": {
@@ -27961,7 +27961,7 @@
         },
         {
             "attributeValues": [],
-            "code": "No method provided",
+            "code": "NO_METHOD_PROVIDED",
             "id": "ILWhBIyQfRk",
             "name": "No method provided",
             "optionSet": {
@@ -27983,7 +27983,7 @@
         },
         {
             "attributeValues": [],
-            "code": "None",
+            "code": "NONE",
             "id": "fw5zsFGTrJw",
             "name": "None",
             "optionSet": {
@@ -27994,7 +27994,7 @@
         },
         {
             "attributeValues": [],
-            "code": "None",
+            "code": "NONE",
             "id": "KrITrVHu01B",
             "name": "None",
             "optionSet": {
@@ -28005,7 +28005,7 @@
         },
         {
             "attributeValues": [],
-            "code": "None",
+            "code": "NONE",
             "id": "mKSOQPK6tbc",
             "name": "None",
             "optionSet": {
@@ -28016,7 +28016,7 @@
         },
         {
             "attributeValues": [],
-            "code": "None",
+            "code": "NONE",
             "id": "nOjG01HHRcD",
             "name": "None",
             "optionSet": {
@@ -28027,7 +28027,7 @@
         },
         {
             "attributeValues": [],
-            "code": "Other (specify)",
+            "code": "OTHER-SPECIFY",
             "id": "tj2O4ATroMA",
             "name": "No: Other reason not prescribed (specify)",
             "optionSet": {
@@ -28038,7 +28038,7 @@
         },
         {
             "attributeValues": [],
-            "code": "Other (specify)",
+            "code": "OTHER-SPECIFY",
             "id": "H4NsY7Zsw9C",
             "name": "No: Other (specify)",
             "optionSet": {
@@ -28049,7 +28049,7 @@
         },
         {
             "attributeValues": [],
-            "code": "No preventative treatment provided",
+            "code": "NO_PREVENTATIVE_TREATMENT_PROVIDED",
             "id": "y34COlbE5wn",
             "name": "No preventative treatment provided",
             "optionSet": {
@@ -28060,7 +28060,7 @@
         },
         {
             "attributeValues": [],
-            "code": "Normal",
+            "code": "NORMAL",
             "id": "t8BdNvn5cRA",
             "name": "Normal",
             "optionSet": {
@@ -28071,7 +28071,7 @@
         },
         {
             "attributeValues": [],
-            "code": "Normal",
+            "code": "NORMAL",
             "id": "EfqaUf3IK1C",
             "name": "Normal abdominal exam result",
             "optionSet": {
@@ -28082,7 +28082,7 @@
         },
         {
             "attributeValues": [],
-            "code": "Normal",
+            "code": "NORMAL",
             "id": "tCiqQsZWKzQ",
             "name": "Normal amniotic fluid level",
             "optionSet": {
@@ -28093,7 +28093,7 @@
         },
         {
             "attributeValues": [],
-            "code": "Normal",
+            "code": "NORMAL",
             "id": "KmG8eK1cFKa",
             "name": "Normal breast exam result",
             "optionSet": {
@@ -28104,7 +28104,7 @@
         },
         {
             "attributeValues": [],
-            "code": "Normal",
+            "code": "NORMAL",
             "id": "WqTpSrN3lyM",
             "name": "Normal cardiac exam result",
             "optionSet": {
@@ -28115,7 +28115,7 @@
         },
         {
             "attributeValues": [],
-            "code": "Normal fetal movement",
+            "code": "NORMAL_FETAL_MOVEMENT",
             "id": "SwI6oQzrhAM",
             "name": "Normal fetal movement",
             "optionSet": {
@@ -28126,7 +28126,7 @@
         },
         {
             "attributeValues": [],
-            "code": "Normal",
+            "code": "NORMAL",
             "id": "S3ICuST0Iio",
             "name": "Normal pelvic exam (visual) result",
             "optionSet": {
@@ -28137,7 +28137,7 @@
         },
         {
             "attributeValues": [],
-            "code": "Normal respiratory exam result",
+            "code": "NORMAL_RESPIRATORY_EXAM_RESULT",
             "id": "TBERKHDKbVh",
             "name": "Normal respiratory exam result",
             "optionSet": {
@@ -28148,7 +28148,7 @@
         },
         {
             "attributeValues": [],
-            "code": "Normal weight",
+            "code": "NORMAL_WEIGHT",
             "id": "BYew8LV2PHF",
             "name": "Normal weight",
             "optionSet": {
@@ -28159,7 +28159,7 @@
         },
         {
             "attributeValues": [],
-            "code": "Stock-out",
+            "code": "STOCK-OUT",
             "id": "buuA0KbH4C6",
             "name": "No: Stock-out",
             "optionSet": {
@@ -28170,7 +28170,7 @@
         },
         {
             "attributeValues": [],
-            "code": "Stock-out",
+            "code": "STOCK-OUT",
             "id": "Pf2IqysH3Fv",
             "name": "No: Stock-out",
             "optionSet": {
@@ -28181,7 +28181,7 @@
         },
         {
             "attributeValues": [],
-            "code": "Client was referred",
+            "code": "CLIENT_WAS_REFERRED",
             "id": "SZUUqwHa2Tf",
             "name": "Not done: Client was referred",
             "optionSet": {
@@ -28192,7 +28192,7 @@
         },
         {
             "attributeValues": [],
-            "code": "Referred instead",
+            "code": "REFERRED_INSTEAD",
             "id": "g25eCSrKah9",
             "name": "Not done: Client was referred ",
             "optionSet": {
@@ -28203,7 +28203,7 @@
         },
         {
             "attributeValues": [],
-            "code": "Confidentiality could not be assured",
+            "code": "CONFIDENTIALITY_COULD_NOT_BE_ASSURED",
             "id": "avFW0SgsFVG",
             "name": "Not done: Confidentiality could not be assured",
             "optionSet": {
@@ -28214,7 +28214,7 @@
         },
         {
             "attributeValues": [],
-            "code": "Other (specify)",
+            "code": "OTHER-SPECIFY",
             "id": "zVg3T1Kq3eq",
             "name": "Not done: Other reason first-line support not done (specify)",
             "optionSet": {
@@ -28225,7 +28225,7 @@
         },
         {
             "attributeValues": [],
-            "code": "Other (specify)",
+            "code": "OTHER-SPECIFY",
             "id": "hw34Ivd4RP2",
             "name": "Not done: Other reason (specify)",
             "optionSet": {
@@ -28236,7 +28236,7 @@
         },
         {
             "attributeValues": [],
-            "code": "Private/safe space unavailable",
+            "code": "PRIVATE_OR_SAFE_SPACE_UNAVAILABLE",
             "id": "OJ3Rk6sKUz2",
             "name": "Not done: Private/safe space unavailable",
             "optionSet": {
@@ -28247,7 +28247,7 @@
         },
         {
             "attributeValues": [],
-            "code": "Trained provider unavailable",
+            "code": "TRAINED_PROVIDER_UNAVAILABLE",
             "id": "lrTQE6nNp0e",
             "name": "Not done: Trained provider unavailable",
             "optionSet": {
@@ -28258,7 +28258,7 @@
         },
         {
             "attributeValues": [],
-            "code": "Stock-out",
+            "code": "STOCK-OUT",
             "id": "vXsBVntUONd",
             "name": "Not Provided: Stock-out",
             "optionSet": {
@@ -28280,7 +28280,7 @@
         },
         {
             "attributeValues": [],
-            "code": "Obese",
+            "code": "OBESE",
             "id": "FIVVGPxmvvL",
             "name": "Obese",
             "optionSet": {
@@ -28291,7 +28291,7 @@
         },
         {
             "attributeValues": [],
-            "code": "Obstructed labour",
+            "code": "OBSTRUCTED_LABOUR",
             "id": "JPhwo2jgW9U",
             "name": "Obstructed labour",
             "optionSet": {
@@ -28302,7 +28302,7 @@
         },
         {
             "attributeValues": [],
-            "code": "Off-site lab",
+            "code": "OFF-SITE_LAB",
             "id": "Sj59ezt56at",
             "name": "Off-site lab test",
             "optionSet": {
@@ -28313,7 +28313,7 @@
         },
         {
             "attributeValues": [],
-            "code": "Other",
+            "code": "OTHER",
             "id": "JIT5GdrsiTA",
             "name": "Other abnormal abdominal exam result (specify)",
             "optionSet": {
@@ -28324,7 +28324,7 @@
         },
         {
             "attributeValues": [],
-            "code": "Other",
+            "code": "OTHER",
             "id": "bKC7F2V6lPx",
             "name": "Other abnormal cardiac exam result (specify)",
             "optionSet": {
@@ -28335,7 +28335,7 @@
         },
         {
             "attributeValues": [],
-            "code": "Other",
+            "code": "OTHER",
             "id": "qUyl43N5vUb",
             "name": "Other abnormal pelvic (visual) result (specify)",
             "optionSet": {
@@ -28346,7 +28346,7 @@
         },
         {
             "attributeValues": [],
-            "code": "Other",
+            "code": "OTHER",
             "id": "YyZHRe3Cp38",
             "name": "Other abnormal respiratory exam result (specify)",
             "optionSet": {
@@ -28357,7 +28357,7 @@
         },
         {
             "attributeValues": [],
-            "code": "Other",
+            "code": "OTHER",
             "id": "iUWRYmg3nt9",
             "name": "Other breast exam result (specify)",
             "optionSet": {
@@ -28368,7 +28368,7 @@
         },
         {
             "attributeValues": [],
-            "code": "Other",
+            "code": "OTHER",
             "id": "UO0JQ3lQeOD",
             "name": "Other fetal presentation (specify)",
             "optionSet": {
@@ -28379,7 +28379,7 @@
         },
         {
             "attributeValues": [],
-            "code": "Other (specify)",
+            "code": "OTHER-SPECIFY",
             "id": "aSR77UjByoc",
             "name": "Other planned birth place (specify)",
             "optionSet": {
@@ -28390,7 +28390,7 @@
         },
         {
             "attributeValues": [],
-            "code": "Other (specify)",
+            "code": "OTHER-SPECIFY",
             "id": "ahDulFBn096",
             "name": "Other reason clinical enquiry not done (specify)",
             "optionSet": {
@@ -28401,7 +28401,7 @@
         },
         {
             "attributeValues": [],
-            "code": "Other (specify)",
+            "code": "OTHER-SPECIFY",
             "id": "FUDKDyY7zbU",
             "name": "Other reason immunization not provided (specify)",
             "optionSet": {
@@ -28412,7 +28412,7 @@
         },
         {
             "attributeValues": [],
-            "code": "Other (specify)",
+            "code": "OTHER-SPECIFY",
             "id": "eQXI8MicMm9",
             "name": "Other reason not prescribed (specify)",
             "optionSet": {
@@ -28423,7 +28423,7 @@
         },
         {
             "attributeValues": [],
-            "code": "Other (specify)",
+            "code": "OTHER-SPECIFY",
             "id": "IFYVyFdFqLv",
             "name": "Other reason not prescribed (specify)",
             "optionSet": {
@@ -28434,7 +28434,7 @@
         },
         {
             "attributeValues": [],
-            "code": "Other (specify)",
+            "code": "OTHER-SPECIFY",
             "id": "uWubeSQanAj",
             "name": "Other reason not prescribed (specify)",
             "optionSet": {
@@ -28445,7 +28445,7 @@
         },
         {
             "attributeValues": [],
-            "code": "Other (specify)",
+            "code": "OTHER-SPECIFY",
             "id": "aXyOdEjmV43",
             "name": "Other reason test not conducted (specify)",
             "optionSet": {
@@ -28456,7 +28456,7 @@
         },
         {
             "attributeValues": [],
-            "code": "Other (specify)",
+            "code": "OTHER-SPECIFY",
             "id": "JKIhtI48z6q",
             "name": "Other reason ultrasound not done (specify)",
             "optionSet": {
@@ -28467,7 +28467,7 @@
         },
         {
             "attributeValues": [],
-            "code": "Other",
+            "code": "OTHER",
             "id": "EP24stq8WJQ",
             "name": "Other (specify)",
             "optionSet": {
@@ -28478,7 +28478,7 @@
         },
         {
             "attributeValues": [],
-            "code": "Other (specify)",
+            "code": "OTHER-SPECIFY",
             "id": "Pw7IVBI5YWA",
             "name": "Other (specify)",
             "optionSet": {
@@ -28500,7 +28500,7 @@
         },
         {
             "attributeValues": [],
-            "code": "Other(specify)",
+            "code": "OTHER-SPECIFY",
             "id": "yeCcRC4gldP",
             "name": "Other(specify)",
             "optionSet": {
@@ -28511,7 +28511,7 @@
         },
         {
             "attributeValues": [],
-            "code": "Overweight",
+            "code": "OVERWEIGHT",
             "id": "ZMaPDFwb6YS",
             "name": "Overweight",
             "optionSet": {
@@ -28522,7 +28522,7 @@
         },
         {
             "attributeValues": [],
-            "code": "Painful decompression",
+            "code": "PAINFUL_DECOMPRESSION",
             "id": "pcpBLWQ2Fj4",
             "name": "Painful decompression",
             "optionSet": {
@@ -28533,7 +28533,7 @@
         },
         {
             "attributeValues": [],
-            "code": "Pain on deep palpation",
+            "code": "PAIN_ON_DEEP_PALPATION",
             "id": "sVW4RbKzKCm",
             "name": "Pain on deep palpation",
             "optionSet": {
@@ -28544,7 +28544,7 @@
         },
         {
             "attributeValues": [],
-            "code": "Pain on superficial palpation",
+            "code": "PAIN_ON_SUPERFICIAL_PALPATION",
             "id": "YXVykvquUn6",
             "name": "Pain on superficial palpation",
             "optionSet": {
@@ -28555,7 +28555,7 @@
         },
         {
             "attributeValues": [],
-            "code": "Not done",
+            "code": "NOT_DONE",
             "id": "RVMA1YaHN3A",
             "name": "Pelvic exam (visual) not done",
             "optionSet": {
@@ -28566,7 +28566,7 @@
         },
         {
             "attributeValues": [],
-            "code": "Pelvic",
+            "code": "PELVIC",
             "id": "PRXbUA8UELb",
             "name": "Pelvic fetal presentation",
             "optionSet": {
@@ -28577,7 +28577,7 @@
         },
         {
             "attributeValues": [],
-            "code": "Cyanosis",
+            "code": "CYANOSIS",
             "id": "bs5H6SI2OpW",
             "name": "Peripheral cyanosis",
             "optionSet": {
@@ -28588,7 +28588,7 @@
         },
         {
             "attributeValues": [],
-            "code": "Placental abruption",
+            "code": "PLACENTAL_ABRUPTION",
             "id": "XVHGPgkOuhp",
             "name": "Placental abruption",
             "optionSet": {
@@ -28599,7 +28599,7 @@
         },
         {
             "attributeValues": [],
-            "code": "Positive",
+            "code": "POSITIVE",
             "id": "FEdLGnW2nUk",
             "name": "Positive",
             "optionSet": {
@@ -28641,7 +28641,7 @@
         },
         {
             "attributeValues": [],
-            "code": "Positive",
+            "code": "POSITIVE",
             "id": "zdSmHv0Gc9x",
             "name": "Positive",
             "optionSet": {
@@ -28698,7 +28698,7 @@
         },
         {
             "attributeValues": [],
-            "code": "Posterior",
+            "code": "POSTERIOR",
             "id": "YsphZ9W9dnc",
             "name": "Posterior",
             "optionSet": {
@@ -28709,7 +28709,7 @@
         },
         {
             "attributeValues": [],
-            "code": "Postpartum haemorrhage",
+            "code": "POSTPARTUM_HAEMORRHAGE",
             "id": "W4TNIQ1hOWi",
             "name": "Postpartum haemorrhage",
             "optionSet": {
@@ -28720,7 +28720,7 @@
         },
         {
             "attributeValues": [],
-            "code": "Praevia",
+            "code": "PRAEVIA",
             "id": "ArtUDB5A3Xm",
             "name": "Praevia",
             "optionSet": {
@@ -28742,7 +28742,7 @@
         },
         {
             "attributeValues": [],
-            "code": "Pre-eclampsia",
+            "code": "PRE-ECLAMPSIA",
             "id": "ufia5htYaeW",
             "name": "Pre-eclampsia",
             "optionSet": {
@@ -28753,7 +28753,7 @@
         },
         {
             "attributeValues": [],
-            "code": "Primary school",
+            "code": "PRIMARY_SCHOOL",
             "id": "f63tJnhGKGS",
             "name": "Primary school",
             "optionSet": {
@@ -28764,7 +28764,7 @@
         },
         {
             "attributeValues": [],
-            "code": "Private/safe space unavailable",
+            "code": "PRIVATE_OR_SAFE_SPACE_UNAVAILABLE",
             "id": "sVpD4mltUYR",
             "name": "Private/safe space unavailable",
             "optionSet": {
@@ -28775,7 +28775,7 @@
         },
         {
             "attributeValues": [],
-            "code": "Progesterone-releasing vaginal ring (PVR)",
+            "code": "PROGESTERONE-RELEASING_VAGINAL_RING-PVR",
             "id": "yYdOzai6X45",
             "name": "Progesterone-releasing vaginal ring (PVR)",
             "optionSet": {
@@ -28786,7 +28786,7 @@
         },
         {
             "attributeValues": [],
-            "code": "Progestogen-only pills (POP)",
+            "code": "PROGESTOGEN-ONLY_PILLS-POP",
             "id": "UTxe2P9Dled",
             "name": "Progestogen-only pills (POP)",
             "optionSet": {
@@ -28797,7 +28797,7 @@
         },
         {
             "attributeValues": [],
-            "code": "Rales",
+            "code": "RALES",
             "id": "lMBpDyWIU8U",
             "name": "Rales",
             "optionSet": {
@@ -28808,7 +28808,7 @@
         },
         {
             "attributeValues": [],
-            "code": "Random",
+            "code": "RANDOM",
             "id": "RQyjLDi1b0m",
             "name": "Random plasma glucose",
             "optionSet": {
@@ -28819,7 +28819,7 @@
         },
         {
             "attributeValues": [],
-            "code": "Rapid breathing",
+            "code": "RAPID_BREATHING",
             "id": "JXwzsWpNrW9",
             "name": "Rapid breathing",
             "optionSet": {
@@ -28852,7 +28852,7 @@
         },
         {
             "attributeValues": [],
-            "code": "Reduced",
+            "code": "REDUCED",
             "id": "zCADMe4t2jR",
             "name": "Reduced amniotic fluid level",
             "optionSet": {
@@ -28863,7 +28863,7 @@
         },
         {
             "attributeValues": [],
-            "code": "Reduced or poor fetal movement",
+            "code": "REDUCED_OR_POOR_FETAL_MOVEMENT",
             "id": "aiilZg7Aarv",
             "name": "Reduced or poor fetal movement",
             "optionSet": {
@@ -28874,7 +28874,7 @@
         },
         {
             "attributeValues": [],
-            "code": "Respiratory exam not done",
+            "code": "RESPIRATORY_EXAM_NOT_DONE",
             "id": "qnbXVViRvJz",
             "name": "Respiratory exam not done",
             "optionSet": {
@@ -28885,7 +28885,7 @@
         },
         {
             "attributeValues": [],
-            "code": "Rh-",
+            "code": "RH",
             "id": "Wvq6IUfsPj8",
             "name": "Rh negative",
             "optionSet": {
@@ -28896,7 +28896,7 @@
         },
         {
             "attributeValues": [],
-            "code": "Rh+",
+            "code": "RHPLUS",
             "id": "BWLU8ixF6lT",
             "name": "Rh positive",
             "optionSet": {
@@ -28907,7 +28907,7 @@
         },
         {
             "attributeValues": [],
-            "code": "Right side",
+            "code": "RIGHT_SIDE",
             "id": "CCKD3z6e7IH",
             "name": "Right side",
             "optionSet": {
@@ -28918,7 +28918,7 @@
         },
         {
             "attributeValues": [],
-            "code": "Scheduled contact",
+            "code": "SCHEDULED_CONTACT",
             "id": "x7n08SZX4NW",
             "name": "Scheduled antenatal care contact",
             "optionSet": {
@@ -28929,7 +28929,7 @@
         },
         {
             "attributeValues": [],
-            "code": "Secondary school",
+            "code": "SECONDARY_SCHOOL",
             "id": "JKJk40qf2Xt",
             "name": "Secondary school",
             "optionSet": {
@@ -28962,7 +28962,7 @@
         },
         {
             "attributeValues": [],
-            "code": "SFH or abdominal palpation",
+            "code": "SFH_OR_ABDOMINAL_PALPATION",
             "id": "nrexgXuQO5W",
             "name": "SFH or abdominal palpation",
             "optionSet": {
@@ -28973,7 +28973,7 @@
         },
         {
             "attributeValues": [],
-            "code": "Side-effects",
+            "code": "SIDE-EFFECTS",
             "id": "klRzjFkyAFe",
             "name": " Side-effects",
             "optionSet": {
@@ -28984,7 +28984,7 @@
         },
         {
             "attributeValues": [],
-            "code": "Side-effects",
+            "code": "SIDE-EFFECTS",
             "id": "TpuBSlMVC3O",
             "name": "Side-effects",
             "optionSet": {
@@ -28995,7 +28995,7 @@
         },
         {
             "attributeValues": [],
-            "code": "Single-dose albendazole 400 mg",
+            "code": "SINGLE-DOSE_ALBENDAZOLE_400_MG",
             "id": "QDAFksfWeyY",
             "name": "Single-dose albendazole 400 mg",
             "optionSet": {
@@ -29006,7 +29006,7 @@
         },
         {
             "attributeValues": [],
-            "code": "Single-dose mebendazole 500 mg",
+            "code": "SINGLE-DOSE_MEBENDAZOLE_500_MG",
             "id": "zthaU1c1CNL",
             "name": "Single-dose mebendazole 500 mg",
             "optionSet": {
@@ -29017,7 +29017,7 @@
         },
         {
             "attributeValues": [],
-            "code": "Slow breathing",
+            "code": "SLOW_BREATHING",
             "id": "sspd2fmPClh",
             "name": "Slow breathing",
             "optionSet": {
@@ -29028,7 +29028,7 @@
         },
         {
             "attributeValues": [],
-            "code": "Specific complaint",
+            "code": "SPECIFIC_COMPLAINT",
             "id": "jVEFMKKEFJB",
             "name": "Specific complaint related to antenatal care",
             "optionSet": {
@@ -29050,7 +29050,7 @@
         },
         {
             "attributeValues": [],
-            "code": "Stock-out",
+            "code": "STOCK-OUT",
             "id": "Lps9JUSPNXn",
             "name": "Stock-out",
             "optionSet": {
@@ -29061,7 +29061,7 @@
         },
         {
             "attributeValues": [],
-            "code": "Stock-out",
+            "code": "STOCK-OUT",
             "id": "njVZlK1Rw0l",
             "name": "Stock-out",
             "optionSet": {
@@ -29072,7 +29072,7 @@
         },
         {
             "attributeValues": [],
-            "code": "Tachycardia",
+            "code": "TACHYCARDIA",
             "id": "S6EIUFhwDjD",
             "name": "Tachycardia",
             "optionSet": {
@@ -29083,7 +29083,7 @@
         },
         {
             "attributeValues": [],
-            "code": "Technician not available",
+            "code": "TECHNICIAN_NOT_AVAILABLE",
             "id": "UNJeaOFAOiw",
             "name": "Technician not available",
             "optionSet": {
@@ -29094,7 +29094,7 @@
         },
         {
             "attributeValues": [],
-            "code": "Stock-out",
+            "code": "STOCK-OUT",
             "id": "sUuefX9Unwq",
             "name": "Test stock-out",
             "optionSet": {
@@ -29105,7 +29105,7 @@
         },
         {
             "attributeValues": [],
-            "code": "Trained provider unavailable",
+            "code": "TRAINED_PROVIDER_UNAVAILABLE",
             "id": "LYwbHASHzl1",
             "name": "Trained provider unavailable",
             "optionSet": {
@@ -29116,7 +29116,7 @@
         },
         {
             "attributeValues": [],
-            "code": "Transverse",
+            "code": "TRANSVERSE",
             "id": "j0JNZBM7bM3",
             "name": "Transverse fetal presentation",
             "optionSet": {
@@ -29127,7 +29127,7 @@
         },
         {
             "attributeValues": [],
-            "code": "Ultrasound",
+            "code": "ULTRASOUND",
             "id": "SJAx9BjK8ZF",
             "name": "Ultrasound",
             "optionSet": {
@@ -29138,7 +29138,7 @@
         },
         {
             "attributeValues": [],
-            "code": "Under-immunized",
+            "code": "UNDER-IMMUNIZED",
             "id": "xgV3XYAKKiH",
             "name": "Under-immunized",
             "optionSet": {
@@ -29149,7 +29149,7 @@
         },
         {
             "attributeValues": [],
-            "code": "Underweight",
+            "code": "UNDERWEIGHT",
             "id": "S100sh3BKvl",
             "name": "Underweight",
             "optionSet": {
@@ -29160,7 +29160,7 @@
         },
         {
             "attributeValues": [],
-            "code": "Unknown",
+            "code": "UNKNOWN",
             "id": "qL0sKYFjorU",
             "name": "Unknown",
             "optionSet": {
@@ -29228,7 +29228,7 @@
         },
         {
             "attributeValues": [],
-            "code": "Unknown",
+            "code": "UNKNOWN",
             "id": "vTxdSFIDraf",
             "name": "Unknown",
             "optionSet": {
@@ -29239,7 +29239,7 @@
         },
         {
             "attributeValues": [],
-            "code": "Unknown",
+            "code": "UNKNOWN",
             "id": "YNCFhIfcF0L",
             "name": "Unknown",
             "optionSet": {
@@ -29250,7 +29250,7 @@
         },
         {
             "attributeValues": [],
-            "code": "Unknown",
+            "code": "UNKNOWN",
             "id": "x4brkvJ0kgw",
             "name": "Unknown fetal presentation",
             "optionSet": {
@@ -29261,7 +29261,7 @@
         },
         {
             "attributeValues": [],
-            "code": "Vacuum",
+            "code": "VACUUM",
             "id": "TvkVRj6ViYB",
             "name": "Vacuum",
             "optionSet": {
@@ -29272,7 +29272,7 @@
         },
         {
             "attributeValues": [],
-            "code": "Vesicles",
+            "code": "VESICLES",
             "id": "pGbYOi4nIgh",
             "name": "Vesicles",
             "optionSet": {
@@ -29283,7 +29283,7 @@
         },
         {
             "attributeValues": [],
-            "code": "Done",
+            "code": "DONE",
             "id": "dNGK6I2WSW7",
             "name": "Was done",
             "optionSet": {
@@ -29294,7 +29294,7 @@
         },
         {
             "attributeValues": [],
-            "code": "Weak pulse",
+            "code": "WEAK_PULSE",
             "id": "qdRx0f2STBA",
             "name": "Weak pulse",
             "optionSet": {
@@ -29305,7 +29305,7 @@
         },
         {
             "attributeValues": [],
-            "code": "Weekly",
+            "code": "WEEKLY",
             "id": "DgDdW8l2B33",
             "name": "Weekly",
             "optionSet": {
@@ -29316,7 +29316,7 @@
         },
         {
             "attributeValues": [],
-            "code": "Wheezing",
+            "code": "WHEEZING",
             "id": "aJjmQ3AKQf4",
             "name": "Wheezing",
             "optionSet": {
@@ -29395,7 +29395,7 @@
         },
         {
             "attributeValues": [],
-            "code": "Provided",
+            "code": "PROVIDED",
             "id": "FM8fuvjD9B8",
             "name": "Yes",
             "optionSet": {
@@ -29406,7 +29406,7 @@
         },
         {
             "attributeValues": [],
-            "code": "Provided",
+            "code": "PROVIDED",
             "id": "mzTJe21vEfa",
             "name": "Yes",
             "optionSet": {
@@ -29589,7 +29589,7 @@
             "attributeValues": [],
             "description": "Total number of antenatal clients with a first contact. COUNT of all women whose records were closed (ANC close form) in the reporting period.",
             "expression": "V{enrollment_count}",
-            "filter": "\n\n#{XznDErihed9.xb4Z245Bnej} == 'First contact'",
+            "filter": "\n\n#{XznDErihed9.xb4Z245Bnej} == 'FIRST_CONTACT'",
             "id": "aqKYGLgSEVV",
             "legendSets": [],
             "name": "ANC Clients with a first contact ",
@@ -39008,7 +39008,7 @@
             "translations": []
         },
         {
-            "condition": "#{Ancb10_Reason_Vitamin_A_Not_Provided_latestPS}!='Referred instead'",
+            "condition": "#{Ancb10_Reason_Vitamin_A_Not_Provided_latestPS}!='REFERRED_INSTEAD'",
             "id": "lzcCucfNab0",
             "name": "ANC.B10.5 Hide Reason Vitamin A Supplementation Not Provided (Referral)",
             "program": {
@@ -39048,7 +39048,7 @@
             "translations": []
         },
         {
-            "condition": "#{Ancb10_Reason_Vitamin_A_Not_Provided_latestPS}!='Other (specify)'",
+            "condition": "#{Ancb10_Reason_Vitamin_A_Not_Provided_latestPS}!='OTHER-SPECIFY'",
             "id": "urzzEr136xX",
             "name": "ANC.B10.5 Reason Vitamin A Supplementation Not Provided (Other, Specify)",
             "program": {
@@ -39065,7 +39065,7 @@
             "translations": []
         },
         {
-            "condition": "#{Ancb10_Reason_Vitamin_A_Not_Provided_latestPS}=='Referred instead'",
+            "condition": "#{Ancb10_Reason_Vitamin_A_Not_Provided_latestPS}=='REFERRED_INSTEAD'",
             "id": "aO8XZgiBOXP",
             "name": "ANC.B10.5 Reason Vitamin A Supplementation Not Provided (Referral)",
             "program": {
@@ -39082,7 +39082,7 @@
             "translations": []
         },
         {
-            "condition": "(#{Ancb9_Reason_Syphilis_Test_Not_Done_latestPS}!= 'Other (specify)' && d2:hasValue('Ancb9_Reason_Syphilis_Test_Not_Done_latestPS'))  || !d2:hasValue('Ancb9_Reason_Syphilis_Test_Not_Done_latestPS')",
+            "condition": "(#{Ancb9_Reason_Syphilis_Test_Not_Done_latestPS}!= 'OTHER-SPECIFY' && d2:hasValue('Ancb9_Reason_Syphilis_Test_Not_Done_latestPS'))  || !d2:hasValue('Ancb9_Reason_Syphilis_Test_Not_Done_latestPS')",
             "description": "Display ANC.B10.105 Show other reason syphilis test not done (specify) if the option is \"Not done: Other reason (specify)\", otherwise --hide ",
             "id": "LpxS9PLQsfz",
             "name": "ANC.B10.DE105 Hide other reason syphilis test not done (specify)",
@@ -39097,7 +39097,7 @@
             "translations": []
         },
         {
-            "condition": "#{Ancb10_Reason_Calcium_Not_Prescribed_latestPS}!= 'Other (specify)'",
+            "condition": "#{Ancb10_Reason_Calcium_Not_Prescribed_latestPS}!= 'OTHER-SPECIFY'",
             "description": "Display ANC.B10. other reason  calcium not prescribed (specify) if the option is \"Other reason not prescribed (specify)\", otherwise --hide ",
             "id": "NPmkq6ceAx5",
             "name": "ANC.B10.DE112. Hide other  calcium not prescribed (specify)",
@@ -39112,7 +39112,7 @@
             "translations": []
         },
         {
-            "condition": "#{Ancb10_Reason_Aspirin_Not_Prescribed_latestPS}!= 'Other (specify)'",
+            "condition": "#{Ancb10_Reason_Aspirin_Not_Prescribed_latestPS}!= 'OTHER-SPECIFY'",
             "description": "Display ANC.B10. other reason  aspirin not prescribed (specify) if the option is \"Other reason not prescribed (specify)\", otherwise --hide ",
             "id": "TpXabSAa9KG",
             "name": "ANC.B10.DE120. Hide other  aspirin not prescribed (specify)",
@@ -39127,7 +39127,7 @@
             "translations": []
         },
         {
-            "condition": "(#{Ancb10_Counselling_On_Secondhand_Smoke_latestPS}!= 'Other (specify)' && d2:hasValue('Ancb10_Counselling_On_Secondhand_Smoke_latestPS'))  || !d2:hasValue('Ancb10_Counselling_On_Secondhand_Smoke_latestPS')",
+            "condition": "(#{Ancb10_Counselling_On_Secondhand_Smoke_latestPS}!= 'OTHER-SPECIFY' && d2:hasValue('Ancb10_Counselling_On_Secondhand_Smoke_latestPS'))  || !d2:hasValue('Ancb10_Counselling_On_Secondhand_Smoke_latestPS')",
             "description": "Display ANC.B10. other reason second-hand smoke counselling not done (specify) if the option is \"Not done: Other reason (specify)\", otherwise --hide ",
             "id": "UzcnWl3NI0w",
             "name": "ANC.B10.DE12. Hide other reason second-hand smoke counselling not done (specify)",
@@ -39142,7 +39142,7 @@
             "translations": []
         },
         {
-            "condition": "#{Ancb10_Prep_For_Hiv_Prevention_Provided_latestPS}!= 'Other (specify)'",
+            "condition": "#{Ancb10_Prep_For_Hiv_Prevention_Provided_latestPS}!= 'OTHER-SPECIFY'",
             "description": "Display ANC.B10. other reason PrEP not prescribed (specify) if the option is \"Other reason not prescribed (specify)\", otherwise --hide ",
             "id": "al6PgArNubn",
             "name": "ANC.B10.DE131. Hide other  PrEP not prescribed (specify)",
@@ -39157,7 +39157,7 @@
             "translations": []
         },
         {
-            "condition": "#{Ancb10_Planned_Birth_Place_latestPS}!= 'Other (specify)'",
+            "condition": "#{Ancb10_Planned_Birth_Place_latestPS}!= 'OTHER-SPECIFY'",
             "description": "Display ANC.B10. other planned birth place (specify) if the option is \"Other planned birth place (specify)\", otherwise --hide ",
             "id": "zInpQ2t6mgJ",
             "name": "ANC.B10.DE141. Hide other planned birth place (specify)",
@@ -39172,7 +39172,7 @@
             "translations": []
         },
         {
-            "condition": "#{Ancb10_Counselling_On_Condom_Use_latestPS}!= 'Other (specify)'",
+            "condition": "#{Ancb10_Counselling_On_Condom_Use_latestPS}!= 'OTHER-SPECIFY'",
             "description": "Display ANC.B10. other reason condom use counselling not done (specify) if the option is \"Not done: Other reason (specify)\", otherwise --hide ",
             "id": "N7OKTBYKHEy",
             "name": "ANC.B10.DE16. Hide other reason condom use counselling not done (specify)",
@@ -39187,7 +39187,7 @@
             "translations": []
         },
         {
-            "condition": "#{Ancb10_Counselling_On_Malaria_Prevention_latestPS}!= 'Other (specify)'",
+            "condition": "#{Ancb10_Counselling_On_Malaria_Prevention_latestPS}!= 'OTHER-SPECIFY'",
             "description": "Display ANC.B10. other reason malaria prevention counselling not done (specify) if the option is \"Not done: Other reason (specify)\", otherwise --hide ",
             "id": "oJe5cEAM7cz",
             "name": "ANC.B10.DE16. Hide other reason malaria prevention counselling not done (specify)",
@@ -39202,7 +39202,7 @@
             "translations": []
         },
         {
-            "condition": "#{Ancb10_Reason_Tetanus_Toxoid_Tt_Vaccination_Not_Provide_latestPS}!= 'Other (specify)'",
+            "condition": "#{Ancb10_Reason_Tetanus_Toxoid_Tt_Vaccination_Not_Provide_latestPS}!= 'OTHER-SPECIFY'",
             "description": "Display ANC.B10. other reason TT immunization not provided (specify) if the option is \"Other reason immunization not provided (specify)\", otherwise --hide ",
             "id": "HiNo2DnJ9gb",
             "name": "ANC.B10.DE180. Hide other reasons  TT immunization not provided (specify)",
@@ -39217,7 +39217,7 @@
             "translations": []
         },
         {
-            "condition": "(#{Ancb9_Reason_Blood_Haemoglobin_Test_Not_Done_latestPS}!= 'Other (specify)' && d2:hasValue('Ancb9_Reason_Blood_Haemoglobin_Test_Not_Done_latestPS'))  || !d2:hasValue('Ancb9_Reason_Blood_Haemoglobin_Test_Not_Done_latestPS')",
+            "condition": "(#{Ancb9_Reason_Blood_Haemoglobin_Test_Not_Done_latestPS}!= 'OTHER-SPECIFY' && d2:hasValue('Ancb9_Reason_Blood_Haemoglobin_Test_Not_Done_latestPS'))  || !d2:hasValue('Ancb9_Reason_Blood_Haemoglobin_Test_Not_Done_latestPS')",
             "description": "Display ANC.B10.184 other reason blood hb test not done (specify) if the option is \"Not done: Other reason (specify)\", otherwise --hide ",
             "id": "atpRXssABRO",
             "name": "ANC.B10.DE184 Hide other reason blood haemoglobin test not done (specify)",
@@ -39232,7 +39232,7 @@
             "translations": []
         },
         {
-            "condition": "#{Ancb10_No_Doses_Of_Hepatitis_B_latestPS}!= 'Other (specify)'",
+            "condition": "#{Ancb10_No_Doses_Of_Hepatitis_B_latestPS}!= 'OTHER-SPECIFY'",
             "description": "Display ANC.B10. other reason Hep B immunization not provided (specify) if the option is \"Other reason immunization not provided (specify)\", otherwise --hide ",
             "id": "e43N6rg1c38",
             "name": "ANC.B10.DE194. Hide other reasons Hep B immunization not provided (specify)",
@@ -39247,7 +39247,7 @@
             "translations": []
         },
         {
-            "condition": "#{Ancb10_Reason_Flu_Vaccine_Not_Provided_latestPS}!= 'Other (specify)'",
+            "condition": "#{Ancb10_Reason_Flu_Vaccine_Not_Provided_latestPS}!= 'OTHER-SPECIFY'",
             "description": "Display ANC.B10. other reason flu vaccine not provided (specify) if the option is \"Other reason immunization not provided (specify)\", otherwise --hide ",
             "id": "sdtATy04BbV",
             "name": "ANC.B10.DE202. Hide other reasons flu vaccine not provided (specify)",
@@ -39262,7 +39262,7 @@
             "translations": []
         },
         {
-            "condition": "#{Ancb10_Counselling_On_Healthy_Eating__Physically_Active_latestPS}!= 'Other (specify)'",
+            "condition": "#{Ancb10_Counselling_On_Healthy_Eating__Physically_Active_latestPS}!= 'OTHER-SPECIFY'",
             "description": "Display ANC.B10. other reason healthy eating counselling not done (specify) if the option is \"Not done: Other reason healthy eating counseling not done (specify)\", otherwise --hide ",
             "id": "iQO6vPnjHvL",
             "name": "ANC.B10.DE209. Hide other reasons healthy eating and physical activity counselling not done (specify)",
@@ -39277,7 +39277,7 @@
             "translations": []
         },
         {
-            "condition": "#{Ancb10_Ipv_Firstline_Support_latestPS}!= 'Other (specify)'",
+            "condition": "#{Ancb10_Ipv_Firstline_Support_latestPS}!= 'OTHER-SPECIFY'",
             "description": "Display ANC.B10. other reason  IPV first-line support not done (specify) if the option is \"Not done: Other reason first-line support not done (specify)\", otherwise --hide ",
             "id": "VmCUBtpL1TR",
             "name": "ANC.B10.DE209. Hide other reasons  IPV first-line support not done (specify)",
@@ -39292,7 +39292,7 @@
             "translations": []
         },
         {
-            "condition": "#{Ancb10_Counselling_On_Alcohol__Substance_Use_latestPS}!= 'Other (specify)'",
+            "condition": "#{Ancb10_Counselling_On_Alcohol__Substance_Use_latestPS}!= 'OTHER-SPECIFY'",
             "description": "Display ANC.B10. other reason alcohol/substance use counselling not done (specify) if the option is \"Not done: Other reason (specify)\", otherwise --hide ",
             "id": "u4qkEtc1kB4",
             "name": "ANC.B10.DE20. Hide other reason alcohol/substance use counselling not done (specify)",
@@ -39307,7 +39307,7 @@
             "translations": []
         },
         {
-            "condition": "#{Ancb10_Reason_No_Preventative_Treatment_Provided_latestPS}!= 'Other (specify)'",
+            "condition": "#{Ancb10_Reason_No_Preventative_Treatment_Provided_latestPS}!= 'OTHER-SPECIFY'",
             "description": "Display ANC.B10. other reason preventative Rx not prescribed (specify) if the option is \"Other reason not prescribed (specify)\", otherwise --hide ",
             "id": "NqmoHSH13w0",
             "name": "ANC.B10.DE239. Hide other reasons preventative Rx not prescribed (specify)",
@@ -39322,7 +39322,7 @@
             "translations": []
         },
         {
-            "condition": "#{Ancb10_Counselling_On_Nonpharma_Measures_To_Relieve_Naus_latestPS}!= 'Other (specify)'",
+            "condition": "#{Ancb10_Counselling_On_Nonpharma_Measures_To_Relieve_Naus_latestPS}!= 'OTHER-SPECIFY'",
             "description": "Display ANC.B10. other reason non-pharma measures to relieve nausea and vomiting counselling not done (specify) if the option is \"Not done: Other reason (specify)\", otherwise --hide ",
             "id": "Hzf8b8233QG",
             "name": "ANC.B10.DE24. Hide other reason non-pharma measures to relieve nausea and vomiting counselling not done (specify)",
@@ -39337,7 +39337,7 @@
             "translations": []
         },
         {
-            "condition": "#{Ancb10_Counselling_On_Pharmacological_Treatments_latestPS}!= 'Other (specify)'",
+            "condition": "#{Ancb10_Counselling_On_Pharmacological_Treatments_latestPS}!= 'OTHER-SPECIFY'",
             "description": "Display ANC.B10. other reason pharma Rx for nausea and vomiting counselling not done (specify) if the option is \"Not done: Other reason (specify)\", otherwise --hide ",
             "id": "f3TA3EwZ6CP",
             "name": "ANC.B10.DE28. Hide other reason pharma Rx for nausea and vomiting counselling not done (specify)",
@@ -39352,7 +39352,7 @@
             "translations": []
         },
         {
-            "condition": "#{Ancb10_Counselling_On_Diet_And_Lifestyle_Changes_latestPS}!= 'Other (specify)'",
+            "condition": "#{Ancb10_Counselling_On_Diet_And_Lifestyle_Changes_latestPS}!= 'OTHER-SPECIFY'",
             "description": "Display ANC.B10. other reason diet and lifestyle for heartburn counselling not done (specify) if the option is \"Not done: Other reason (specify)\", otherwise --hide ",
             "id": "LgzyRmymEJw",
             "name": "ANC.B10.DE32. Hide other reason diet and lifestyle for heartburn counselling not done (specify)",
@@ -39367,7 +39367,7 @@
             "translations": []
         },
         {
-            "condition": "#{Ancb10_Counselling_On_Antacid_To_Relieve_Heartburn_latestPS}!= 'Other (specify)'",
+            "condition": "#{Ancb10_Counselling_On_Antacid_To_Relieve_Heartburn_latestPS}!= 'OTHER-SPECIFY'",
             "description": "Display ANC.B10. other reason antacid for heartburn counselling not done (specify) if the option is \"Not done: Other reason (specify)\", otherwise --hide ",
             "id": "tdBpXSYJ4gc",
             "name": "ANC.B10.DE36. Hide other reason antacid for heartburn counselling not done (specify)",
@@ -39382,7 +39382,7 @@
             "translations": []
         },
         {
-            "condition": "(#{Ancb9_Reason_Hiv_Test_Not_Done_curr}!= 'Other (specify)' && d2:hasValue('Ancb9_Reason_Hiv_Test_Not_Done_curr'))  || !d2:hasValue('Ancb9_Reason_Hiv_Test_Not_Done_curr')",
+            "condition": "(#{Ancb9_Reason_Hiv_Test_Not_Done_curr}!= 'OTHER-SPECIFY' && d2:hasValue('Ancb9_Reason_Hiv_Test_Not_Done_curr'))  || !d2:hasValue('Ancb9_Reason_Hiv_Test_Not_Done_curr')",
             "description": "Display ANC.B10. Show other reason HIV test not done (specify) if the option is \"Not done: Other reason (specify)\", otherwise --hide ",
             "id": "n8IuGnRMYVF",
             "name": "ANC.B10.DE39 Hide other reason HIV test not done (specify)",
@@ -39397,7 +39397,7 @@
             "translations": []
         },
         {
-            "condition": "#{Ancb10_Counselling_On_Nonpharma_Rx_For_Leg_Cramps_latestPS}!= 'Other (specify)'",
+            "condition": "#{Ancb10_Counselling_On_Nonpharma_Rx_For_Leg_Cramps_latestPS}!= 'OTHER-SPECIFY'",
             "description": "Display ANC.B10. other reason non-pharma for leg cramps counselling not done (specify) if the option is \"Not done: Other reason (specify)\", otherwise --hide ",
             "id": "HjurFyz90Pg",
             "name": "ANC.B10.DE40. Hide other reason non-pharma for leg cramps counselling not done (specify)",
@@ -39412,7 +39412,7 @@
             "translations": []
         },
         {
-            "condition": "#{Ancb10_Counselling_On_Mg__Ca_To_Relieve_Leg_Cramps_latestPS}!= 'Other (specify)'",
+            "condition": "#{Ancb10_Counselling_On_Mg__Ca_To_Relieve_Leg_Cramps_latestPS}!= 'OTHER-SPECIFY'",
             "description": "Display ANC.B10. other reason Mg & Ca for leg cramps counselling not done (specify) if the option is \"Not done: Other reason (specify)\", otherwise --hide ",
             "id": "J7CqFo4eD77",
             "name": "ANC.B10.DE44. Hide other reason Mg & Ca for leg cramps counselling not done (specify)",
@@ -39427,7 +39427,7 @@
             "translations": []
         },
         {
-            "condition": "#{Ancb10_Counselling_Constipation_Dietary_Modifications_latestPS}!= 'Other (specify)'",
+            "condition": "#{Ancb10_Counselling_Constipation_Dietary_Modifications_latestPS}!= 'OTHER-SPECIFY'",
             "description": "Display ANC.B10. other reason  dietary modification for constipation counselling not done (specify) if the option is \"Not done: Other reason (specify)\", otherwise --hide ",
             "id": "kUQCkrUUmpn",
             "name": "ANC.B10.DE48. Hide other reason  dietary modification for constipation counselling not done (specify)",
@@ -39442,7 +39442,7 @@
             "translations": []
         },
         {
-            "condition": "#{Ancb10_Counselling_On_Caffeine_Reduction_latestPS} != 'Other (specify)'",
+            "condition": "#{Ancb10_Counselling_On_Caffeine_Reduction_latestPS} != 'OTHER-SPECIFY'",
             "description": "Display ANC.B10. other reason caffeine reduction counselling not done (specify) if the option is \"Not done: Other reason (specify)\", otherwise --hide ",
             "id": "jlubACr8gF2",
             "name": "ANC.B10.DE4.  Hide other reason caffeine reduction counselling not done (specify)",
@@ -39457,7 +39457,7 @@
             "translations": []
         },
         {
-            "condition": "#{Ancb10_Counselling_Fibre_Supplements_For_Constipation_latestPS}!= 'Other (specify)'",
+            "condition": "#{Ancb10_Counselling_Fibre_Supplements_For_Constipation_latestPS}!= 'OTHER-SPECIFY'",
             "description": "Display ANC.B10. other reason use of wheat bran or other fibre supplements to relieve constipation counselling not done (specify) if the option is \"Not done: Other reason (specify)\", otherwise --hide ",
             "id": "vooDspiMZwG",
             "name": "ANC.B10.DE52. Hide other reason use of wheat bran or other fibre supplements to relieve constipation counselling not done (specify)",
@@ -39472,7 +39472,7 @@
             "translations": []
         },
         {
-            "condition": "#{Ancb10_Counselling_To_Relieve_Low_Back_And_Pelvic_Pain_latestPS}!= 'Other (specify)'",
+            "condition": "#{Ancb10_Counselling_To_Relieve_Low_Back_And_Pelvic_Pain_latestPS}!= 'OTHER-SPECIFY'",
             "description": "Display ANC.B10. other reason regular exercise, physiotherapy, support belts and acupuncture to relieve low back and pelvic pain counselling not done (specify) if the option is \"Not done: Other reason (specify)\", otherwise --hide ",
             "id": "r7N2dB8Z5Bm",
             "name": "ANC.B10.DE56. Hide other reason regular exercise, physiotherapy, support belts and acupuncture to relieve low back and pelvic pain counselling not done (specify)",
@@ -39487,7 +39487,7 @@
             "translations": []
         },
         {
-            "condition": "#{Ancb10_Counselling_Varicose_Veins_Or_Oedema_Nonpharma_latestPS}!= 'Other (specify)'",
+            "condition": "#{Ancb10_Counselling_Varicose_Veins_Or_Oedema_Nonpharma_latestPS}!= 'OTHER-SPECIFY'",
             "description": "Display ANC.B10. other reason non-pharma for varicose vein and oeadema counselling not done (specify) if the option is \"Not done: Other reason (specify)\", otherwise --hide ",
             "id": "qJeZPIlTIBO",
             "name": "ANC.B10.DE60. Hide other reason non-pharma for varicose vein and oeadema counselling not done (specify)",
@@ -39502,7 +39502,7 @@
             "translations": []
         },
         {
-            "condition": "#{Ancb10_Counselling_Balanced_Energy__Protein__Supplement_latestPS} != 'Other (specify)'",
+            "condition": "#{Ancb10_Counselling_Balanced_Energy__Protein__Supplement_latestPS} != 'OTHER-SPECIFY'",
             "description": "Display ANC.B10. other reason balanced daily and protein supplementation counselling not done (specify) if the option is \"Not done: Other reason (specify)\", otherwise --hide ",
             "id": "Hlyhx4m0ABy",
             "name": "ANC.B10.DE68.  Hide other reason balanced daily energy and protein supplementation counselling not done (specify)",
@@ -39517,7 +39517,7 @@
             "translations": []
         },
         {
-            "condition": "#{Ancb10_Counselling_On_Increasing_Daily_Energy_And_Protein_latestPS} != 'Other (specify)'",
+            "condition": "#{Ancb10_Counselling_On_Increasing_Daily_Energy_And_Protein_latestPS} != 'OTHER-SPECIFY'",
             "description": "Display ANC.B10. other reason increasing daily energy and protein intake counselling not done (specify) if the option is \"Not done: Other reason (specify)\", otherwise --hide ",
             "id": "JD8EQEsig4w",
             "name": "ANC.B10.DE68.  Hide other reason increasing daily energy and protein intake counselling not done (specify)",
@@ -39532,7 +39532,7 @@
             "translations": []
         },
         {
-            "condition": "(#{Ancb9_Reason_Hepatitis_B_Test_Not_Conducted_latestPS}!= 'Other (specify)' && d2:hasValue('Ancb9_Reason_Hepatitis_B_Test_Not_Conducted_latestPS'))  || !d2:hasValue('Ancb9_Reason_Hepatitis_B_Test_Not_Conducted_latestPS')",
+            "condition": "(#{Ancb9_Reason_Hepatitis_B_Test_Not_Conducted_latestPS}!= 'OTHER-SPECIFY' && d2:hasValue('Ancb9_Reason_Hepatitis_B_Test_Not_Conducted_latestPS'))  || !d2:hasValue('Ancb9_Reason_Hepatitis_B_Test_Not_Conducted_latestPS')",
             "description": "Display ANC.B10.DE69 other reason Hep B test not done (specify) if the option is \"Not done: Other reason (specify)\", otherwise --hide ",
             "id": "zWyrJ9tjguX",
             "name": "ANC.B10.DE69 Hide other reason Hep B test not done (specify)",
@@ -39547,7 +39547,7 @@
             "translations": []
         },
         {
-            "condition": "#{Ancb10_Sevenday_Antibiotic_Regimen_For_Asb_latestPS}!= 'Other (specify)'",
+            "condition": "#{Ancb10_Sevenday_Antibiotic_Regimen_For_Asb_latestPS}!= 'OTHER-SPECIFY'",
             "description": "Display ANC.B10. other reason seven-day antibiotics for ASB was not provided (specify) if the option is \"Other reason not prescribed (specify)\", otherwise --hide ",
             "id": "KS8ScwX7LA7",
             "name": "ANC.B10.DE86. Hide other  seven-day antibiotics for ASB was not provided (specify)",
@@ -39562,7 +39562,7 @@
             "translations": []
         },
         {
-            "condition": "(#{Ancb9_Reason_Hepatitis_C_Test_Not_Done_latestPS}!= 'Other (specify)' && d2:hasValue('Ancb9_Reason_Hepatitis_C_Test_Not_Done_latestPS'))  || !d2:hasValue('Ancb9_Reason_Hepatitis_C_Test_Not_Done_latestPS')",
+            "condition": "(#{Ancb9_Reason_Hepatitis_C_Test_Not_Done_latestPS}!= 'OTHER-SPECIFY' && d2:hasValue('Ancb9_Reason_Hepatitis_C_Test_Not_Done_latestPS'))  || !d2:hasValue('Ancb9_Reason_Hepatitis_C_Test_Not_Done_latestPS')",
             "description": "Display ANC.B10.DE87 other reason Hep C test not done (specify) if the option is \"Not done: Other reason (specify)\", otherwise --hide ",
             "id": "N6FTSpcqwx2",
             "name": "ANC.B10.DE87 Hide other reason Hep C test not done (specify)",
@@ -39577,7 +39577,7 @@
             "translations": []
         },
         {
-            "condition": "#{Ancb10_Counselling_On_Tobacco_Cessation_latestPS}!= 'Other (specify)'",
+            "condition": "#{Ancb10_Counselling_On_Tobacco_Cessation_latestPS}!= 'OTHER-SPECIFY'",
             "description": "Display ANC.B10. other reason tobacco cessation counselling not done (specify) if the option is \"Not done: Other reason (specify)\", otherwise --hide ",
             "id": "n5GrBHlA23d",
             "name": "ANC.B10.DE8. Hide other reason tobacco cessation counselling not done (specify)",
@@ -39592,7 +39592,7 @@
             "translations": []
         },
         {
-            "condition": "#{Ancb10_Reason_Iron_And_Folic_Acid_Not_Prescribed_latestPS}!= 'Other (specify)'",
+            "condition": "#{Ancb10_Reason_Iron_And_Folic_Acid_Not_Prescribed_latestPS}!= 'OTHER-SPECIFY'",
             "description": "Display ANC.B10. other reason folic acid and iron not prescribed (specify) if the option is \"Other reason not prescribed (specify)\", otherwise --hide ",
             "id": "i3Q2Mup7qkm",
             "name": "ANC.B10.DE99. Hide other folic acid and iron not prescribed (specify)",
@@ -39628,7 +39628,7 @@
             "translations": []
         },
         {
-            "condition": "!d2:hasValue('Ancb5_Reason_For_Coming_To_Facility_latestEv') ||  #{Ancb5_Reason_For_Coming_To_Facility_latestEv} != 'Specific complaint'",
+            "condition": "!d2:hasValue('Ancb5_Reason_For_Coming_To_Facility_latestEv') ||  #{Ancb5_Reason_For_Coming_To_Facility_latestEv} != 'SPECIFIC_COMPLAINT'",
             "description": "Hide Section Reason for coming to facility if the Reason for coming to health facility is other than 'Specific compliant related to antenatal care'",
             "id": "Kvr80GBFSM6",
             "name": "ANC.B5. Hide Section Reason for coming to facility",
@@ -39798,7 +39798,7 @@
             "translations": []
         },
         {
-            "condition": "#{Ancb6_Ultrasound_Done_latestPS}==true && #{Ancb6_Source_Of_Gestational_Age_latestPS}=='Ultrasound' && d2:hasValue('ultrasoundbirthdate') && d2:daysBetween(V{event_date}, #{ultrasoundbirthdate})>0 ",
+            "condition": "#{Ancb6_Ultrasound_Done_latestPS}==true && #{Ancb6_Source_Of_Gestational_Age_latestPS}=='ULTRASOUND' && d2:hasValue('ultrasoundbirthdate') && d2:daysBetween(V{event_date}, #{ultrasoundbirthdate})>0 ",
             "description": "take ultrasound inputs to calculate EDD",
             "id": "Z7hN6d3J4Q8",
             "name": "ANC.B6.DE16. Calculate EDD  based on ultrasound2",
@@ -40725,7 +40725,7 @@
             "translations": []
         },
         {
-            "condition": "#{Ancb5_Reason_For_Coming_To_Facility_latestPS}  != 'Scheduled contact'",
+            "condition": "#{Ancb5_Reason_For_Coming_To_Facility_latestPS}  != 'SCHEDULED_CONTACT'",
             "description": "Hide Section Specific Persistent physiological symptom if the Reason for coming to health facility is other than 'Scheduled antenatal care visit'",
             "id": "P9I2E0Tokh5",
             "name": "ANC.B7. Hide Section Persistent physiological symptom",
@@ -40833,7 +40833,7 @@
             "translations": []
         },
         {
-            "condition": "!d2:hasValue('Ancb8_Fetal_Presentation_latestPS')  ||  #{Ancb8_Fetal_Presentation_latestPS} != 'Other'",
+            "condition": "!d2:hasValue('Ancb8_Fetal_Presentation_latestPS')  ||  #{Ancb8_Fetal_Presentation_latestPS} != 'OTHER'",
             "description": "Display ANC.B8.DE116. Other fetal presentation (specify) if the option is \"Other reason ...(specify)\", otherwise --hide ",
             "id": "JQ3kRoLlJps",
             "name": "ANC.B8.DE116. Hide field Other fetal presentation (specify)",
@@ -40848,7 +40848,7 @@
             "translations": []
         },
         {
-            "condition": "#{Ancb8_Reason_Clinical_Enquiry_Not_Done_latestPS} != 'Other (specify)'",
+            "condition": "#{Ancb8_Reason_Clinical_Enquiry_Not_Done_latestPS} != 'OTHER-SPECIFY'",
             "description": "Display ANC.B8.DE127. Other reason clinical enquiry not done (specify) if the option is \"Other reason ...(specify)\", otherwise --hide ",
             "id": "cyVz7okzWIf",
             "name": "ANC.B8.DE127. Hide field Other reason clinical enquiry not done (specify)",
@@ -40863,7 +40863,7 @@
             "translations": []
         },
         {
-            "condition": "(#{Ancb8_Repeat_Systolic_Blood_Pressure_latestPS} >= 140 && #{Ancb8_Systolic_Blood_Pressure_latestPS} >=140 && \n#{Ancb8_Repeat_Systolic_Blood_Pressure_latestPS} < 160 && #{Ancb8_Systolic_Blood_Pressure_latestPS} <140 && (#{Ancb9_Urine_Dipstick_Result_Protein_latestPS} =='++' || #{Ancb9_Urine_Dipstick_Result_Protein_latestPS} =='+++' ||#{Ancb9_Urine_Dipstick_Result_Protein_latestPS} =='++++' )) \n||\n(#{Ancb8_Repeat_Diastolic_Blood_Pressure_latestPS} >= 90 && #{Ancb8_Diastolic_Blood_Pressure_latestPS} >=90 && \n#{Ancb8_Repeat_Diastolic_Blood_Pressure_latestPS} < 110 && #{Ancb8_Diastolic_Blood_Pressure_latestPS} <110 && (#{Ancb9_Urine_Dipstick_Result_Protein_latestPS} =='++' || #{Ancb9_Urine_Dipstick_Result_Protein_latestPS} =='+++'|| #{Ancb9_Urine_Dipstick_Result_Protein_latestPS} =='++++'))",
+            "condition": "(#{Ancb8_Repeat_Systolic_Blood_Pressure_latestPS} >= 140 && #{Ancb8_Systolic_Blood_Pressure_latestPS} >=140 && \n#{Ancb8_Repeat_Systolic_Blood_Pressure_latestPS} < 160 && #{Ancb8_Systolic_Blood_Pressure_latestPS} <140 && (#{Ancb9_Urine_Dipstick_Result_Protein_latestPS} =='2PLUS' || #{Ancb9_Urine_Dipstick_Result_Protein_latestPS} =='4PLUS' ||#{Ancb9_Urine_Dipstick_Result_Protein_latestPS} =='4PLUSPLUS' )) \n||\n(#{Ancb8_Repeat_Diastolic_Blood_Pressure_latestPS} >= 90 && #{Ancb8_Diastolic_Blood_Pressure_latestPS} >=90 && \n#{Ancb8_Repeat_Diastolic_Blood_Pressure_latestPS} < 110 && #{Ancb8_Diastolic_Blood_Pressure_latestPS} <110 && (#{Ancb9_Urine_Dipstick_Result_Protein_latestPS} =='2PLUS' || #{Ancb9_Urine_Dipstick_Result_Protein_latestPS} =='4PLUS'|| #{Ancb9_Urine_Dipstick_Result_Protein_latestPS} =='4PLUSPLUS'))",
             "id": "BRsgh8KW2nO",
             "name": "ANC.B8.DE17-33.DS Pre-eclampsia",
             "program": {
@@ -40892,7 +40892,7 @@
             "translations": []
         },
         {
-            "condition": "((\n(#{Ancb8_Repeat_Systolic_Blood_Pressure_latestPS} >= 140 && #{Ancb8_Systolic_Blood_Pressure_latestPS} >=140)  ||\n(#{Ancb8_Repeat_Diastolic_Blood_Pressure_latestPS} >= 90 && #{Ancb8_Diastolic_Blood_Pressure_latestPS} >=90)  \n) && \n(#{Ancb8_Severe_Headache_latestPS} == true  || #{Ancb8_Visual_Disturbance_latestPS} == true  || #{Ancb8_Epigastric_Pain_latestPS} == true ||#{Ancb5_Anc_Dizziness_latestPS} == true || #{Ancb5_Anc_Vomiting_latestPS} == true)) \n \n||\n\n((#{Ancb8_Repeat_Systolic_Blood_Pressure_latestPS} >= 140 && #{Ancb8_Systolic_Blood_Pressure_latestPS} >=140)  ||\n(#{Ancb8_Repeat_Diastolic_Blood_Pressure_latestPS} >= 90 && #{Ancb8_Diastolic_Blood_Pressure_latestPS} >=90)  \n&&\n#{Ancb8_No_Symptoms_Of_Severe_Preeclampsia_latestPS}==true &&\n(d2:hasValue('Ancb9_Urine_Dipstick_Result_Protein_latestPS')  &&  #{Ancb9_Urine_Dipstick_Result_Protein_latestPS}!='None' && #{Ancb9_Urine_Dipstick_Result_Protein_latestPS}!='+')\n\n)",
+            "condition": "((\n(#{Ancb8_Repeat_Systolic_Blood_Pressure_latestPS} >= 140 && #{Ancb8_Systolic_Blood_Pressure_latestPS} >=140)  ||\n(#{Ancb8_Repeat_Diastolic_Blood_Pressure_latestPS} >= 90 && #{Ancb8_Diastolic_Blood_Pressure_latestPS} >=90)  \n) && \n(#{Ancb8_Severe_Headache_latestPS} == true  || #{Ancb8_Visual_Disturbance_latestPS} == true  || #{Ancb8_Epigastric_Pain_latestPS} == true ||#{Ancb5_Anc_Dizziness_latestPS} == true || #{Ancb5_Anc_Vomiting_latestPS} == true)) \n \n||\n\n((#{Ancb8_Repeat_Systolic_Blood_Pressure_latestPS} >= 140 && #{Ancb8_Systolic_Blood_Pressure_latestPS} >=140)  ||\n(#{Ancb8_Repeat_Diastolic_Blood_Pressure_latestPS} >= 90 && #{Ancb8_Diastolic_Blood_Pressure_latestPS} >=90)  \n&&\n#{Ancb8_No_Symptoms_Of_Severe_Preeclampsia_latestPS}==true &&\n(d2:hasValue('Ancb9_Urine_Dipstick_Result_Protein_latestPS')  &&  #{Ancb9_Urine_Dipstick_Result_Protein_latestPS}!='NONE' && #{Ancb9_Urine_Dipstick_Result_Protein_latestPS}!='PLUS')\n\n)",
             "id": "iAq6DstMfjk",
             "name": "ANC.B8.DE17-33.DS Severe Pre-eclampsia",
             "program": {
@@ -40924,7 +40924,7 @@
             "translations": []
         },
         {
-            "condition": "!d2:hasValue('Ancb8_Systolic_Blood_Pressure_curr')  || \n!d2:hasValue('Ancb8_Diastolic_Blood_Pressure_curr')  ||\n!d2:hasValue('Ancb8_Repeat_Systolic_Blood_Pressure_curr')   || \n!d2:hasValue('Ancb8_Repeat_Diastolic_Blood_Pressure_curr')  ||\n(\n(#{Ancb8_Repeat_Systolic_Blood_Pressure_curr} < 140 && #{Ancb8_Systolic_Blood_Pressure_curr} <140)  ||\n(#{Ancb8_Repeat_Diastolic_Blood_Pressure_curr} < 90 && #{Ancb8_Diastolic_Blood_Pressure_curr} <90)  \n) && \n(#{Ancb8_Severe_Headache_latestPS} != true  || #{Ancb8_Visual_Disturbance_latestPS} != true  || #{Ancb8_Epigastric_Pain_latestPS} != true ||#{Ancb5_Anc_Dizziness_latestPS} != true || #{Ancb5_Anc_Vomiting_latestPS} != true )\n ||\n(\n(#{Ancb8_Repeat_Systolic_Blood_Pressure_curr} < 140 && #{Ancb8_Systolic_Blood_Pressure_curr} <140)  ||\n(#{Ancb8_Repeat_Diastolic_Blood_Pressure_curr} < 90 && #{Ancb8_Diastolic_Blood_Pressure_curr} <90)  \n) && \n(!d2:hasValue('Ancb9_Urine_Dipstick_Result_Protein_latestPS')  ||  #{Ancb9_Urine_Dipstick_Result_Protein_latestPS}=='None'  ||  #{Ancb9_Urine_Dipstick_Result_Protein_latestPS}=='+'|| #{Ancb8_No_Symptoms_Of_Severe_Preeclampsia_latestPS}==true )",
+            "condition": "!d2:hasValue('Ancb8_Systolic_Blood_Pressure_curr')  || \n!d2:hasValue('Ancb8_Diastolic_Blood_Pressure_curr')  ||\n!d2:hasValue('Ancb8_Repeat_Systolic_Blood_Pressure_curr')   || \n!d2:hasValue('Ancb8_Repeat_Diastolic_Blood_Pressure_curr')  ||\n(\n(#{Ancb8_Repeat_Systolic_Blood_Pressure_curr} < 140 && #{Ancb8_Systolic_Blood_Pressure_curr} <140)  ||\n(#{Ancb8_Repeat_Diastolic_Blood_Pressure_curr} < 90 && #{Ancb8_Diastolic_Blood_Pressure_curr} <90)  \n) && \n(#{Ancb8_Severe_Headache_latestPS} != true  || #{Ancb8_Visual_Disturbance_latestPS} != true  || #{Ancb8_Epigastric_Pain_latestPS} != true ||#{Ancb5_Anc_Dizziness_latestPS} != true || #{Ancb5_Anc_Vomiting_latestPS} != true )\n ||\n(\n(#{Ancb8_Repeat_Systolic_Blood_Pressure_curr} < 140 && #{Ancb8_Systolic_Blood_Pressure_curr} <140)  ||\n(#{Ancb8_Repeat_Diastolic_Blood_Pressure_curr} < 90 && #{Ancb8_Diastolic_Blood_Pressure_curr} <90)  \n) && \n(!d2:hasValue('Ancb9_Urine_Dipstick_Result_Protein_latestPS')  ||  #{Ancb9_Urine_Dipstick_Result_Protein_latestPS}=='NONE'  ||  #{Ancb9_Urine_Dipstick_Result_Protein_latestPS}=='PLUS'|| #{Ancb8_No_Symptoms_Of_Severe_Preeclampsia_latestPS}==true )",
             "id": "uZWJUu8ymQq",
             "name": "ANC.B8.DE17-33.DS Show Pre-Eclampsia Detection",
             "priority": 7,
@@ -41144,7 +41144,7 @@
             "translations": []
         },
         {
-            "condition": "#{Ancb8_Reason_Blood_Pressure_Cannot_Be_Taken_latestPS} != 'Other'",
+            "condition": "#{Ancb8_Reason_Blood_Pressure_Cannot_Be_Taken_latestPS} != 'OTHER'",
             "description": "Display ANC.B8.DE26. Other reason BP not taken (specify) if the option is \"Other reason ...(specify)\", otherwise --hide ",
             "id": "VndFhnXC614",
             "name": "ANC.B8.DE26. Hide field Other reason BP not taken (specify)",
@@ -41383,7 +41383,7 @@
             "translations": []
         },
         {
-            "condition": "#{Ancb8_Respiratory_Exam_Result_latestPS} != 'Other'",
+            "condition": "#{Ancb8_Respiratory_Exam_Result_latestPS} != 'OTHER'",
             "description": "Display ANC.B8.DE48. Other abnormal respiratory exam result (specify) if the option is \"Other reason ...(specify)\", otherwise --hide ",
             "id": "G5FV3dP3H3b",
             "name": "ANC.B8.DE48. Hide field Other abnormal respiratory exam result (specify)",
@@ -41398,7 +41398,7 @@
             "translations": []
         },
         {
-            "condition": "!d2:hasValue('Ancb8_Respiratory_Exam_Result_latestPS')  || \n(\n#{Ancb8_Respiratory_Exam_Result_latestPS} != 'Dyspnoea' \n&&\n#{Ancb8_Respiratory_Exam_Result_latestPS} != 'Cough'\n&& \n#{Ancb8_Respiratory_Exam_Result_latestPS} != 'Rapid breathing\"'\n&& \n#{Ancb8_Respiratory_Exam_Result_latestPS} != 'Slow breathing'\n&& \n#{Ancb8_Respiratory_Exam_Result_latestPS} != 'Wheezing'\n&& \n#{Ancb8_Respiratory_Exam_Result_latestPS} != 'Rales'\n&& \n#{Ancb8_Respiratory_Exam_Result_latestPS} != 'Other abnormal respiratory exam result (specify)'\n)",
+            "condition": "!d2:hasValue('Ancb8_Respiratory_Exam_Result_latestPS')  || \n(\n#{Ancb8_Respiratory_Exam_Result_latestPS} != 'DYSPNOEA' \n&&\n#{Ancb8_Respiratory_Exam_Result_latestPS} != 'COUGH'\n&& \n#{Ancb8_Respiratory_Exam_Result_latestPS} != 'RAPID_BREATHING\"'\n&& \n#{Ancb8_Respiratory_Exam_Result_latestPS} != 'SLOW_BREATHING'\n&& \n#{Ancb8_Respiratory_Exam_Result_latestPS} != 'WHEEZING'\n&& \n#{Ancb8_Respiratory_Exam_Result_latestPS} != 'RALES'\n&& \n#{Ancb8_Respiratory_Exam_Result_latestPS} != 'Other abnormal respiratory exam result (specify)'\n)",
             "description": "Show oximetry if respiratory result meets conditions",
             "id": "s7ppRDEKxNh",
             "name": "ANC.B8.DE49.DS1 Show Oximetry test",
@@ -41416,7 +41416,7 @@
             "translations": []
         },
         {
-            "condition": "d2:hasValue('Ancb8_Respiratory_Exam_Result_latestPS') && !d2:hasValue('Ancb8_Oximetry_latestPS') &&\n(#{Ancb8_Respiratory_Exam_Result_latestPS} == 'Dyspnoea' \n|| \n#{Ancb8_Respiratory_Exam_Result_latestPS} == 'Cough'\n|| \n#{Ancb8_Respiratory_Exam_Result_latestPS} == 'Rapid breathing\"'\n|| \n#{Ancb8_Respiratory_Exam_Result_latestPS} == 'Slow breathing'\n|| \n#{Ancb8_Respiratory_Exam_Result_latestPS} == 'Wheezing'\n|| \n#{Ancb8_Respiratory_Exam_Result_latestPS} == 'Rales'\n|| \n#{Ancb8_Respiratory_Exam_Result_latestPS} == 'Other abnormal respiratory exam result (specify)'\n)",
+            "condition": "d2:hasValue('Ancb8_Respiratory_Exam_Result_latestPS') && !d2:hasValue('Ancb8_Oximetry_latestPS') &&\n(#{Ancb8_Respiratory_Exam_Result_latestPS} == 'DYSPNOEA' \n|| \n#{Ancb8_Respiratory_Exam_Result_latestPS} == 'COUGH'\n|| \n#{Ancb8_Respiratory_Exam_Result_latestPS} == 'RAPID_BREATHING\"'\n|| \n#{Ancb8_Respiratory_Exam_Result_latestPS} == 'SLOW_BREATHING'\n|| \n#{Ancb8_Respiratory_Exam_Result_latestPS} == 'WHEEZING'\n|| \n#{Ancb8_Respiratory_Exam_Result_latestPS} == 'RALES'\n|| \n#{Ancb8_Respiratory_Exam_Result_latestPS} == 'Other abnormal respiratory exam result (specify)'\n)",
             "description": "Show oximetry if respiratory result meets conditions",
             "id": "pN0HFXZu74f",
             "name": "ANC.B8.DE49.DS2 Show warning for Oximetry test",
@@ -41452,7 +41452,7 @@
             "translations": []
         },
         {
-            "condition": " #{Ancb8_Cardiac_Exam_Result_latestPS} != 'Other'",
+            "condition": " #{Ancb8_Cardiac_Exam_Result_latestPS} != 'OTHER'",
             "description": "Display ANC.B8.DE60. Other abnormal cardiac exam result (specify) if the option is \"Other reason ...(specify)\", otherwise --hide ",
             "id": "NwT5L6g7W1A",
             "name": "ANC.B8.DE60. Hide field Other abnormal cardiac exam result (specify)",
@@ -41467,7 +41467,7 @@
             "translations": []
         },
         {
-            "condition": "#{Ancb8_Breast_Exam_Result_latestPS} != 'Other' ",
+            "condition": "#{Ancb8_Breast_Exam_Result_latestPS} != 'OTHER' ",
             "description": "Display ANC.B8.DE70. Other breast exam result (specify) if the option is \"Other reason ...(specify)\", otherwise --hide ",
             "id": "aL1qBCXAU7j",
             "name": "ANC.B8.DE70. Hide field Other breast exam result (specify)",
@@ -41482,7 +41482,7 @@
             "translations": []
         },
         {
-            "condition": "#{Ancb8_Abdominal_Exam_Result_latestPS} != 'Other' ",
+            "condition": "#{Ancb8_Abdominal_Exam_Result_latestPS} != 'OTHER' ",
             "description": "Display ANC.B8.DE78. Other abnormal abdominal exam result (specify) if the option is \"Other reason ...(specify)\", otherwise --hide ",
             "id": "QAzArxs8S41",
             "name": "ANC.B8.DE78. Hide field Other abnormal abdominal exam result (specify)",
@@ -41497,7 +41497,7 @@
             "translations": []
         },
         {
-            "condition": "#{Ancb8_Pelvic_Exam_Result_Visual_latestPS} != 'Other'",
+            "condition": "#{Ancb8_Pelvic_Exam_Result_Visual_latestPS} != 'OTHER'",
             "description": "Display ANC.B8.DE91. Other abnormal pelvic (visual) result (specify) if the option is \"Other reason ...(specify)\", otherwise --hide ",
             "id": "SrekcR7CFoM",
             "name": "ANC.B8.DE91. Hide field Other abnormal pelvic (visual) result (specify)",
@@ -41549,7 +41549,7 @@
             "translations": []
         },
         {
-            "condition": "d2:hasValue( 'Ancb8_Oedema_Present_curr')  && #{Ancb8_Oedema_Present_curr}  == 'No'",
+            "condition": "d2:hasValue( 'Ancb8_Oedema_Present_curr')  && #{Ancb8_Oedema_Present_curr}  == 'NO'",
             "description": "Oedema type and severity is not asked if there is no oedema present ",
             "id": "ztMLIYBx5Z3",
             "name": "ANC.B8.DE95- 104 Hide fields DE95- 104 if Oedema is not present ",
@@ -41735,7 +41735,7 @@
             "translations": []
         },
         {
-            "condition": "d2:hasValue('Ancb9_Urine_Dipstick_Result_Protein_curr') && #{Ancb9_Urine_Dipstick_Result_Protein_curr}!='+' && #{Ancb9_Urine_Dipstick_Result_Protein_curr}!='None'",
+            "condition": "d2:hasValue('Ancb9_Urine_Dipstick_Result_Protein_curr') && #{Ancb9_Urine_Dipstick_Result_Protein_curr}!='PLUS' && #{Ancb9_Urine_Dipstick_Result_Protein_curr}!='NONE'",
             "id": "rIqPMsTkUZT",
             "name": "ANC. B8.DT17 Show Warning If High Proteinuria",
             "priority": 10,
@@ -41798,7 +41798,7 @@
             "translations": []
         },
         {
-            "condition": "(#{Ancb9_Reason_Urine_Test_Not_Done_latestPS}!= 'Other (specify)' && d2:hasValue('Ancb9_Reason_Urine_Test_Not_Done_latestPS'))  || !d2:hasValue('Ancb9_Reason_Urine_Test_Not_Done_latestPS')",
+            "condition": "(#{Ancb9_Reason_Urine_Test_Not_Done_latestPS}!= 'OTHER-SPECIFY' && d2:hasValue('Ancb9_Reason_Urine_Test_Not_Done_latestPS'))  || !d2:hasValue('Ancb9_Reason_Urine_Test_Not_Done_latestPS')",
             "description": "Display ANC.B10.123 Show other reason urine test not done (specify) if the option is \"Not done: Other reason (specify)\", otherwise --hide ",
             "id": "whMqW2iwPxK",
             "name": "ANC.B9.DE123 Hide other reason urine test not done (specify)",
@@ -41896,7 +41896,7 @@
             "translations": []
         },
         {
-            "condition": "#{ANC.B9. Reason ultrasound scan non done} != 'Other (specify)'",
+            "condition": "#{ANC.B9. Reason ultrasound scan non done} != 'OTHER-SPECIFY'",
             "description": "Display ANC.B9. Other reason ultrasound was not done (specify) if the option is \"other (specify), otherwise --hide ",
             "id": "o4JyGcQUX1o",
             "name": "ANC.B9.DE8. Hide other reason ultrasound was not done (specify) ",
@@ -41911,7 +41911,7 @@
             "translations": []
         },
         {
-            "condition": "d2:hasValue('Ancb9_Ultrasound_Scan_Conducted_latestPS') && #{Ancb9_Ultrasound_Scan_Conducted_latestPS} == 'No'",
+            "condition": "d2:hasValue('Ancb9_Ultrasound_Scan_Conducted_latestPS') && #{Ancb9_Ultrasound_Scan_Conducted_latestPS} == 'NO'",
             "description": "Display ANC.B9.DE9-DE13. Amniotic fluid and, Placenta location if  Ultrasound scan conducted  = Yes",
             "id": "oibk60aBCRK",
             "name": "ANC.B9.DE9-DE13. Hide Amniotic fluid level and, Placenta location ",
@@ -42291,7 +42291,7 @@
             "translations": []
         },
         {
-            "condition": "#{Ancend_Delivery_Place_curr} != 'Other(specify)'",
+            "condition": "#{Ancend_Delivery_Place_curr} != 'OTHER-SPECIFY'",
             "description": "Display ANC.B10. other planned birth place (specify) if the option is \"Other planned birth place (specify)\", otherwise --hide ",
             "id": "dJsdZzSxd4U",
             "name": "ANC.End.16 Hide Other delivery place (specify)",
@@ -42306,7 +42306,7 @@
             "translations": []
         },
         {
-            "condition": "#{ANC_End40_Cause_of_death} != 'Other (specify)' ",
+            "condition": "#{ANC_End40_Cause_of_death} != 'OTHER-SPECIFY' ",
             "id": "A60mP8mcvI7",
             "name": "ANC.End.50. Hide Other cause of death (specify)",
             "program": {
